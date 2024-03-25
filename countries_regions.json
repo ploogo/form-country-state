@@ -1,159 +1,159 @@
 [
   {
     "country": "Afghanistan",
-    "region": "Badakhshan, Badghis, Baghlan, Balkh, Bamyan, Daykundi, Farah, Faryab, Ghazni, Ghor, Helmand, Herat, Jowzjan, Kabul, Kandahar, Kapisa, Khost, Kunaṟ, Kunduz, Laghman, Logar, Nangarhar, Nimroz, Nuristan, Paktika, Paktiya, Panjshayr, Parwan, Samangan, Sar-e Pul, Takhar, Uruzgan, Wardak, Zabul"
+    "region": ["Badakhshan", "Badghis", "Baghlan", "Balkh", "Bamyan", "Daykundi", "Farah", "Faryab", "Ghazni", "Ghor", "Helmand", "Herat", "Jowzjan", "Kabul", "Kandahar", "Kapisa", "Khost", "Kunaṟ", "Kunduz", "Laghman", "Logar", "Nangarhar", "Nimroz", "Nuristan", "Paktika", "Paktiya", "Panjshayr", "Parwan", "Samangan", "Sar-e Pul", "Takhar", "Uruzgan", "Wardak", "Zabul"]
   },
   {
     "country": "Albania",
-    "region": "Berat, Diber, Durres, Elbasan, Fier, Gjirokaster, Korce, Kukes, Lezhe, Shkoder, Tirane, Vlore"
+    "region": ["Berat", "Diber", "Durres", "Elbasan", "Fier", "Gjirokaster", "Korce", "Kukes", "Lezhe", "Shkoder", "Tirane", "Vlore"]
   },
   {
     "country": "Algeria",
-    "region": "Adrar, Ain Defla, Ain Temouchent, Alger, Annaba, Batna, Bechar, Bejaia, Biskra, Blida, Bordj Bou Arreridj, Bouira, Boumerdes, Chlef, Constantine, Djelfa, El Bayadh, El Oued, El Tarf, Ghardaia, Guelma, Illizi, Jijel, Khenchela, Laghouat, Mascara, Medea, Mila, Mostaganem, M'sila, Naama, Oran, Ouargla, Oum el Bouaghi, Relizane, Saida, Setif, Sidi Bel Abbes, Skikda, Souk Ahras, Tamanrasset, Tebessa, Tiaret, Tindouf, Tipaza, Tissemsilt, Tizi Ouzou, Tlemcen"
+    "region": ["Adrar", "Ain Defla", "Ain Temouchent", "Alger", "Annaba", "Batna", "Bechar", "Bejaia", "Biskra", "Blida", "Bordj Bou Arreridj", "Bouira", "Boumerdes", "Chlef", "Constantine", "Djelfa", "El Bayadh", "El Oued", "El Tarf", "Ghardaia", "Guelma", "Illizi", "Jijel", "Khenchela", "Laghouat", "Mascara", "Medea", "Mila", "Mostaganem", "M'sila", "Naama", "Oran", "Ouargla", "Oum el Bouaghi", "Relizane", "Saida", "Setif", "Sidi Bel Abbes", "Skikda", "Souk Ahras", "Tamanrasset", "Tebessa", "Tiaret", "Tindouf", "Tipaza", "Tissemsilt", "Tizi Ouzou", "Tlemcen"]
   },
   {
     "country": "Andorra",
-    "region": "Andorra la Vella, Canillo, Encamp, Escaldes-Engordany, La Massana, Ordino, Sant Julia de Loria"
+    "region": ["Andorra la Vella", "Canillo", "Encamp", "Escaldes-Engordany", "La Massana", "Ordino", "Sant Julia de Loria"]
   },
   {
     "country": "Angola",
-    "region": "Huila, Bengo, Benguela, Bie, Cabinda, Cuando Cubango, Cuanza-Norte, Cuanza-Sul, Cunene, Huambo, Luanda, Lunda-Norte, Lunda-Sul, Malange, Moxico, Namibe, Uige, Zaire"
+    "region": ["Huila", "Bengo", "Benguela", "Bie", "Cabinda", "Cuando Cubango", "Cuanza-Norte", "Cuanza-Sul", "Cunene", "Huambo", "Luanda", "Lunda-Norte", "Lunda-Sul", "Malange", "Moxico", "Namibe", "Uige", "Zaire"]
   },
   {
     "country": "Antigua and Barbuda",
-    "region": "Saint George, Saint John, Saint Mary, Saint Paul, Saint Peter, Saint Philip, Barbuda, Redonda"
+    "region": ["Saint George", "Saint John", "Saint Mary", "Saint Paul", "Saint Peter", "Saint Philip", "Barbuda", "Redonda"]
   },
   {
     "country": "Argentina",
-    "region": "Cordoba, La Rioja, Misiones, Rio Negro, San Juan, Santa Cruz, Buenos Aires, Catamarca, Chaco, Chubut, Ciudad Autonoma de Buenos Aires, Corrientes, Entre Rios, Formosa, Jujuy, La Pampa, Mendoza, Neuquen, Salta, San Luis, Santa Fe, Santiago del Estero, Tierra del Fuego, Tucuman"
+    "region": ["Cordoba", "La Rioja", "Misiones", "Rio Negro", "San Juan", "Santa Cruz", "Buenos Aires", "Catamarca", "Chaco", "Chubut", "Ciudad Autonoma de Buenos Aires", "Corrientes", "Entre Rios", "Formosa", "Jujuy", "La Pampa", "Mendoza", "Neuquen", "Salta", "San Luis", "Santa Fe, Santiago del Estero", "Tierra del Fuego", "Tucuman"]
   },
   {
     "country": "Armenia",
-    "region": "Aragacotn, Ararat, Armavir, Erevan, Gegark'unik', Kotayk', Lori, Sirak, Syunik', Tavus, Vayoc Jor"
+    "region": ["Aragacotn", "Ararat", "Armavir", "Erevan", "Gegark'unik'", "Kotayk'", "Lori", "Sirak", "Syunik'", "Tavus", "Vayoc Jor"]
   },
   {
     "country": "Australia",
-    "region": "Australian Capital Territory, New South Wales, Northern Territory, Queensland, South Australia, Tasmania, Victoria, Western Australia"
+    "region": ["Australian Capital Territory", "New South Wales", "Northern Territory", "Queensland", "South Australia", "Tasmania", "Victoria", "Western Australia"]
   },
   {
     "country": "Austria",
-    "region": "Burgenland, Karnten, Niederosterreich, Oberosterreich, Salzburg, Steiermark, Tirol, Vorarlberg, Wien"
+    "region": ["Burgenland", "Karnten", "Niederosterreich", "Oberosterreich", "Salzburg", "Steiermark", "Tirol", "Vorarlberg", "Wien"]
   },
   {
     "country": "Azerbaijan",
-    "region": "Lankaran, Naxcivan, Saki, Yevlax, Abseron, Agcabədi, Agdam, Agdas, Agstafa, Agsu, Astara, Babak, Baki, Balakan, Barda, Beylaqan, Bilasuvar, Cabrayil, Calilabad, Culfa, Daskasan, Fuzuli, Gadabay, Ganca, Goranboy, Goycay, Goygol, Haciqabul, Imisli, Ismayilli, Kalbacar, Kangarli, Kurdamir, Lacin, Lerik, Masalli, Mingacevir, Naftalan, Neftcala, Oguz, Ordubad, Qax, Qazax, Qabala, Qobustan, Quba, Qubadli, Qusar, Saatli, Sabirabad, Sabran, Sahbuz, Salyan, Samaxi, Samux, Sadarak, Samkir, Sarur, Sirvan, Siyazan, Sumqayit, Susa, Tartar, Tovuz, Ucar, Xacmaz, Xankandi, Xizi, Xocali, Xocavand, Yardimli, Zaqatala, Zangilan, Zardab"
+    "region": ["Lankaran", "Naxcivan", "Saki", "Yevlax", "Abseron", "Agcabədi", "Agdam", "Agdas", "Agstafa", "Agsu", "Astara", "Babak", "Baki", "Balakan", "Barda", "Beylaqan", "Bilasuvar", "Cabrayil", "Calilabad", "Culfa", "Daskasan", "Fuzuli", "Gadabay", "Ganca", "Goranboy", "Goycay", "Goygol", "Haciqabul", "Imisli", "Ismayilli", "Kalbacar", "Kangarli", "Kurdamir", "Lacin", "Lerik", "Masalli", "Mingacevir", "Naftalan", "Neftcala", "Oguz", "Ordubad", "Qax", "Qazax", "Qabala", "Qobustan", "Quba", "Qubadli", "Qusar", "Saatli", "Sabirabad", "Sabran", "Sahbuz", "Salyan", "Samaxi", "Samux", "Sadarak", "Samkir", "Sarur", "Sirvan", "Siyazan", "Sumqayit", "Susa", "Tartar", "Tovuz", "Ucar", "Xacmaz", "Xankandi", "Xizi", "Xocali", "Xocavand", "Yardimli", "Zaqatala", "Zangilan", "Zardab"]
   },
   {
     "country": "Bahamas",
-    "region": "San Salvador, Acklins, Berry Islands, Bimini, Black Point, Cat Island, Central Abaco, Central Andros, Central Eleuthera, City of Freeport, Crooked Island and Long Cay, East Grand Bahama, Exuma, Grand Cay, Harbour Island, Hope Town, Inagua, Long Island, Mangrove Cay, Mayaguana, Moore's Island, New Providence, North Abaco, North Andros, North Eleuthera, Ragged Island, Rum Cay, South Abaco, South Andros, South Eleuthera, Spanish Wells, West Grand Bahama"
+    "region": ["San Salvador", "Acklins", "Berry Islands", "Bimini", "Black Point", "Cat Island", "Central Abaco", "Central Andros", "Central Eleuthera", "City of Freeport", "Crooked Island and Long Cay", "East Grand Bahama", "Exuma", "Grand Cay", "Harbour Island", "Hope Town", "Inagua", "Long Island", "Mangrove Cay", "Mayaguana", "Moore's Island", "New Providence", "North Abaco", "North Andros", "North Eleuthera", "Ragged Island", "Rum Cay", "South Abaco", "South Andros", "South Eleuthera", "Spanish Wells", "West Grand Bahama"]
   },
   {
     "country": "Bahrain",
-    "region": "Al ‘Asimah, Ash Shamaliyah, Al Janubiyah, Al Muharraq"
+    "region": ["Al 'Asimah", "Ash Shamaliyah", "Al Janubiyah", "Al Muharraq"]
   },
   {
     "country": "Bangladesh",
-    "region": "Barishal, Chattogram, Dhaka, Khulna, Mymensingh, Rajshahi, Rangpur, Sylhet, Bagerhat, Bandarban, Barguna, Bhola, Bogura, Brahmanbaria, Chandpur, Chapai Nawabganj, Chuadanga, Cox's Bazar, Cumilla, Dinajpur, Faridpur, Feni, Gaibandha, Gazipur, Gopalganj, Habiganj, Jamalpur, Jashore, Jhalakathi, Jhenaidah, Joypurhat, Khagrachhari, Kishoreganj, Kurigram, Kushtia, Lakshmipur, Lalmonirhat, Madaripur, Magura, Manikganj, Meherpur, Moulvibazar, Munshiganj, Naogaon, Narail, Narayanganj, Narsingdi, Natore, Netrakona, Nilphamari, Noakhali, Pabna, Panchagarh, Patuakhali, Pirojpur, Rajbari, Rangamati, Satkhira, Shariatpur, Sherpur, Sirajganj, Sunamganj, Tangail, Thakurgaon"
+    "region": ["Barishal", "Chattogram", "Dhaka", "Khulna", "Mymensingh", "Rajshahi", "Rangpur", "Sylhet", "Bagerhat", "Bandarban", "Barguna", "Bhola", "Bogura", "Brahmanbaria", "Chandpur", "Chapai Nawabganj", "Chuadanga", "Cox's Bazar", "Cumilla", "Dinajpur", "Faridpur", "Feni", "Gaibandha", "Gazipur", "Gopalganj", "Habiganj", "Jamalpur", "Jashore", "Jhalakathi", "Jhenaidah", "Joypurhat", "Khagrachhari", "Kishoreganj", "Kurigram", "Kushtia", "Lakshmipur", "Lalmonirhat", "Madaripur", "Magura", "Manikganj", "Meherpur", "Moulvibazar", "Munshiganj", "Naogaon", "Narail", "Narayanganj", "Narsingdi", "Natore", "Netrakona", "Nilphamari", "Noakhali", "Pabna", "Panchagarh", "Patuakhali", "Pirojpur", "Rajbari", "Rangamati", "Satkhira", "Shariatpur", "Sherpur", "Sirajganj", "Sunamganj", "Tangail", "Thakurgaon"]
   },
   {
     "country": "Barbados",
-    "region": "Saint Andrew, Saint George, Saint James, Saint John, Saint Joseph, Saint Peter, Saint Philip, Saint Thomas, Christ Church, Saint Lucy, Saint Michael"
+    "region": ["Saint Andrew", "Saint George", "Saint James", "Saint John", "Saint Joseph", "Saint Peter", "Saint Philip", "Saint Thomas", "Christ Church", "Saint Lucy", "Saint Michael"]
   },
   {
     "country": "Belarus",
-    "region": "Bresckaja voblasc, Homieĺskaja voblasc, Horad Minsk, Hrodzienskaja voblasc, Mahiliouskaja voblasc, Minskaja voblasc, Viciebskaja voblasc"
+    "region": ["Bresckaja voblasc", "Homieĺskaja voblasc", "Horad Minsk", "Hrodzienskaja voblasc", "Mahiliouskaja voblasc", "Minskaja voblasc", "Viciebskaja voblasc"]
   },
   {
     "country": "Belgium",
-    "region": "Limburg, Antwerpen, Brabant wallon, Brussels Hoofdstedelijk Gewest, Hainaut, Liege, Luxembourg, Namur, Oost-Vlaanderen, Vlaams Gewest, Vlaams-Brabant, wallonne, Region, West-Vlaanderen"
+    "region": ["Limburg", "Antwerpen", "Brabant wallon", "Brussels Hoofdstedelijk Gewest", "Hainaut", "Liege", "Luxembourg", "Namur", "Oost-Vlaanderen", "Vlaams Gewest", "Vlaams-Brabant", "wallonne Region", "West-Vlaanderen"]
   },
   {
     "country": "Belize",
-    "region": "Toledo, Belize, Cayo, Corozal, Orange Walk, Stann Creek"
+    "region": ["Toledo", "Belize", "Cayo", "Corozal", "Orange Walk", "Stann Creek"]
   },
   {
     "country": "Benin",
-    "region": "Littoral, Plateau, Alibori, Atacora, Atlantique, Borgou, Collines, Couffo, Donga, Mono, Oueme, Zou"
+    "region": ["Littoral", "Plateau", "Alibori", "Atacora", "Atlantique", "Borgou", "Collines", "Couffo", "Donga", "Mono", "Oueme", "Zou"]
   },
   {
     "country": "Bhutan",
-    "region": "Bumthang, Chhukha, Dagana, Gasa, Haa, Lhuentse, Monggar, Paro, Pema Gatshel, Punakha, Samdrup Jongkhar, Samtse, Sarpang, Thimphu, Trashi Yangtse, Trashigang, Trongsa, Tsirang, Wangdue Phodrang, Zhemgang"
+    "region": ["Bumthang", "Chhukha", "Dagana", "Gasa", "Haa", "Lhuentse", "Monggar", "Paro", "Pema Gatshel", "Punakha", "Samdrup Jongkhar", "Samtse", "Sarpang", "Thimphu", "Trashi Yangtse", "Trashigang", "Trongsa", "Tsirang", "Wangdue Phodrang", "Zhemgang"]
   },
   {
     "country": "Bolivia",
-    "region": "La Paz, Santa Cruz, Chuquisaca, Cochabamba, El Beni, Oruro, Pando, Potosi, Tarija"
+    "region": ["La Paz", "Santa Cruz", "Chuquisaca", "Cochabamba", "El Beni", "Oruro", "Pando", "Potosi", "Tarija"]
   },
   {
     "country": "Bonaire, Sint Eustatius and Saba",
-    "region": "Bonaire, Saba, Sint Eustatius"
+    "region": ["Bonaire", "Saba", "Sint Eustatius"]
   },
   {
     "country": "Bosnia and Herzegovina",
-    "region": "Brcko distrikt, Federacija Bosne i Hercegovine, Republika Srpska"
+    "region": ["Brcko distrikt", "Federacija Bosne i Hercegovine", "Republika Srpska"]
   },
   {
     "country": "Botswana",
-    "region": "Central, North East, North West, South East, Southern, Chobe, Francistown, Gaborone, Ghanzi, Jwaneng, Kgalagadi, Kgatleng, Kweneng, Lobatse, Selibe Phikwe, Sowa Town"
+    "region": ["Central", "North East", "North West", "South East", "Southern", "Chobe", "Francistown", "Gaborone", "Ghanzi", "Jwaneng", "Kgalagadi", "Kgatleng", "Kweneng", "Lobatse", "Selibe Phikwe", "Sowa Town"]
   },
   {
     "country": "Brazil",
-    "region": "Amazonas, Para, Santa Catarina, Acre, Alagoas, Amapa, Bahia, Ceara, Distrito Federal, Espirito Santo, Goias, Maranhao, Mato Grosso, Mato Grosso do Sul, Minas Gerais, Paraiba, Parana, Pernambuco, Piaui, Rio de Janeiro, Rio Grande do Norte, Rio Grande do Sul, Rondonia, Roraima, Sao Paulo, Sergipe, Tocantins"
+    "region": ["Amazonas", "Para", "Santa Catarina", "Acre", "Alagoas", "Amapa", "Bahia", "Ceara", "Distrito Federal", "Espirito Santo", "Goias", "Maranhao", "Mato Grosso", "Mato Grosso do Sul", "Minas Gerais", "Paraiba", "Parana", "Pernambuco", "Piaui", "Rio de Janeiro", "Rio Grande do Norte", "Rio Grande do Sul", "Rondonia", "Roraima", "Sao Paulo", "Sergipe", "Tocantins"]
   },
   {
     "country": "Brunei Darussalam",
-    "region": "Belait, Brunei-Muara, Temburong, Tutong"
+    "region": ["Belait", "Brunei-Muara", "Temburong", "Tutong"]
   },
   {
     "country": "Bulgaria",
-    "region": "Montana, Ruse, Blagoevgrad, Burgas, Dobrich, Gabrovo, Haskovo, Kardzhali, Kyustendil, Lovech, Pazardzhik, Pernik, Pleven, Plovdiv, Razgrad, Shumen, Silistra, Sliven, Smolyan, Sofia, Sofia (stolitsa), Stara Zagora, Targovishte, Varna, Veliko Tarnovo, Vidin, Vratsa, Yambol"
+    "region": ["Montana", "Ruse", "Blagoevgrad", "Burgas", "Dobrich", "Gabrovo", "Haskovo", "Kardzhali", "Kyustendil", "Lovech", "Pazardzhik", "Pernik", "Pleven", "Plovdiv", "Razgrad", "Shumen", "Silistra", "Sliven", "Smolyan", "Sofia", "Sofia (stolitsa)", "Stara Zagora", "Targovishte", "Varna", "Veliko Tarnovo", "Vidin", "Vratsa", "Yambol"]
   },
   {
     "country": "Burkina Faso",
-    "region": "Centre, Comoe, Est, Nord, Sud-Ouest, Bale, Bam, Banwa, Bazega, Boucle du Mouhoun, Bougouriba, Boulgou, Boulkiemde, Cascades, Centre-Est, Centre-Nord, Centre-Ouest, Centre-Sud, Ganzourgou, Gnagna, Gourma, Hauts-Bassins, Houet, Ioba, Kadiogo, Kenedougou, Komondjari, Kompienga, Kossi, Koulpelogo, Kouritenga, Kourweogo, Leraba, Loroum, Mouhoun, Nahouri, Namentenga, Nayala, Noumbiel, Oubritenga, Oudalan, Passore, Plateau-Central, Poni, Sahel, Sanguie, Sanmatenga, Seno, Sissili, Soum, Sourou, Tapoa, Tuy, Yagha, Yatenga, Ziro, Zondoma, Zoundweogo"
+    "region": ["Centre", "Comoe", "Est", "Nord", "Sud-Ouest", "Bale", "Bam", "Banwa", "Bazega", "Boucle du Mouhoun", "Bougouriba", "Boulgou", "Boulkiemde", "Cascades", "Centre-Est", "Centre-Nord", "Centre-Ouest", "Centre-Sud", "Ganzourgou", "Gnagna", "Gourma", "Hauts-Bassins", "Houet", "Ioba", "Kadiogo", "Kenedougou", "Komondjari", "Kompienga", "Kossi", "Koulpelogo", "Kouritenga", "Kourweogo", "Leraba", "Loroum", "Mouhoun", "Nahouri", "Namentenga", "Nayala", "Noumbiel", "Oubritenga", "Oudalan", "Passore", "Plateau-Central", "Poni", "Sahel", "Sanguie", "Sanmatenga", "Seno", "Sissili", "Soum", "Sourou", "Tapoa", "Tuy", "Yagha", "Yatenga", "Ziro", "Zondoma", "Zoundweogo"]
   },
   {
     "country": "Burundi",
-    "region": "Bubanza, Bujumbura Mairie, Bujumbura Rural, Bururi, Cankuzo, Cibitoke, Gitega, Karuzi, Kayanza, Kirundo, Makamba, Muramvya, Muyinga, Mwaro, Ngozi, Rumonge, Rutana, Ruyigi"
+    "region": ["Bubanza", "Bujumbura Mairie", "Bujumbura Rural", "Bururi", "Cankuzo", "Cibitoke", "Gitega", "Karuzi", "Kayanza", "Kirundo", "Makamba", "Muramvya", "Muyinga", "Mwaro", "Ngozi", "Rumonge", "Rutana", "Ruyigi"]
   },
   {
     "country": "Cabo Verde",
-    "region": "Santa Catarina, Santa Cruz, Boa Vista, Brava, Ilhas de Barlavento, Ilhas de Sotavento, Maio, Mosteiros, Paul, Porto Novo, Praia, Ribeira Brava, Ribeira Grande, Ribeira Grande de Santiago, Sal, Santa Catarina do Fogo, Sao Domingos, Sao Filipe, Sao Lourenco dos Orgaos, Sao Miguel, Sao Salvador do Mundo, Sao Vicente, Tarrafal, Tarrafal de Sao Nicolau"
+    "region": ["Santa Catarina", "Santa Cruz", "Boa Vista", "Brava", "Ilhas de Barlavento", "Ilhas de Sotavento", "Maio", "Mosteiros", "Paul", "Porto Novo", "Praia", "Ribeira Brava", "Ribeira Grande", "Ribeira Grande de Santiago", "Sal", "Santa Catarina do Fogo", "Sao Domingos", "Sao Filipe", "Sao Lourenco dos Orgaos", "Sao Miguel", "Sao Salvador do Mundo", "Sao Vicente", "Tarrafal", "Tarrafal de Sao Nicolau"]
   },
   {
     "country": "Cambodia",
-    "region": "Baat Dambang, Banteay Mean Choay, Kaeb, Kampong Chaam, Kampong Chhnang, Kampong Spueu, Kampong Thum, Kampot, Kandaal, Kaoh Kong, Kracheh, Mondol Kiri, Otdar Mean Chey, Pailin, Phnom Penh, Pousaat, Preah Sihanouk, Preah Vihear, Prey Veaeng, Rotanak Kiri, Siem Reab, Stueng Traeng, Svaay Rieng, Taakaev, Tbong Khmum"
+    "region": ["Baat Dambang", "Banteay Mean Choay", "Kaeb", "Kampong Chaam", "Kampong Chhnang", "Kampong Spueu", "Kampong Thum", "Kampot", "Kandaal", "Kaoh Kong", "Kracheh", "Mondol Kiri", "Otdar Mean Chey", "Pailin", "Phnom Penh", "Pousaat", "Preah Sihanouk", "Preah Vihear", "Prey Veaeng", "Rotanak Kiri", "Siem Reab", "Stueng Traeng", "Svaay Rieng", "Taakaev", "Tbong Khmum"]
   },
   {
     "country": "Cameroon",
-    "region": "Centre, Est, Littoral, Nord, Nord-Ouest, Ouest, Sud, Sud-Ouest, Adamaoua, Extreme-Nord"
+    "region": ["Centre", "Est", "Littoral", "Nord", "Nord-Ouest", "Ouest", "Sud", "Sud-Ouest", "Adamaoua", "Extreme-Nord"]
   },
   {
     "country": "Canada",
-    "region": "Alberta, British Columbia, Manitoba, New Brunswick, Newfoundland and Labrador, Northwest Territories, Nova Scotia, Nunavut, Ontario, Prince Edward Island, Quebec, Saskatchewan, Yukon"
+    "region": ["Alberta", "British Columbia", "Manitoba", "New Brunswick", "Newfoundland and Labrador", "Northwest Territories", "Nova Scotia", "Nunavut", "Ontario", "Prince Edward Island", "Quebec", "Saskatchewan", "Yukon"]
   },
   {
     "country": "Central African Republic",
-    "region": "Bamingi-Bangoran, Bangi, Do-Koto, Giribingi, Kemo-Giribingi, Lobaye, Mbomu, Nana-Mbaere, Ombela-Poko, Sanga, To-Koto, To-Mbomu, To-Sanga / Mbaere-Kadei, Vakaga, Waka, Wamo, Wamo-Pende"
+    "region": ["Bamingi-Bangoran", "Bangi", "Do-Koto", "Giribingi", "Kemo-Giribingi", "Lobaye", "Mbomu", "Nana-Mbaere", "Ombela-Poko", "Sanga", "To-Koto", "To-Mbomu", "To-Sanga / Mbaere-Kadei", "Vakaga", "Waka", "Wamo", "Wamo-Pende"]
   },
   {
     "country": "Chad",
-    "region": "Al Buhayrah, Al Batha’, Bahr al Ghazal, Burku, Hajjar Lamis, Inidi al Gharbi, Inidi ash Sharqi, Kanim, Lughun al Gharbi, Lughun ash Sharqi, Madinat Injamina, Mandul, Mayu Kibbi al Gharbi, Mayu Kibbi ash Sharqi, Qira, Salamat, Shari al Awsat, Shari Baqirmi, Sila, Tanjili, Tibasti, Wadday, Wadi Fira’"
+    "region": ["Al Buhayrah", "Al Batha'", "Bahr al Ghazal", "Burku", "Hajjar Lamis", "Inidi al Gharbi", "Inidi ash Sharqi", "Kanim", "Lughun al Gharbi", "Lughun ash Sharqi", "Madinat Injamina", "Mandul", "Mayu Kibbi al Gharbi", "Mayu Kibbi ash Sharqi", "Qira", "Salamat", "Shari al Awsat", "Shari Baqirmi", "Sila", "Tanjili", "Tibasti", "Wadday", "Wadi Fira'"]
   },
   {
     "country": "Chile",
-    "region": "Los Rios, Aisen del General Carlos Ibanez del Campo, Antofagasta, Arica y Parinacota, Atacama, Biobio, Coquimbo, La Araucania, Libertador General Bernardo O'Higgins, Los Lagos, Magallanes, Maule, Nuble, Region Metropolitana de Santiago, Tarapaca, Valparaiso"
+    "region": ["Los Rios", "Aisen del General Carlos Ibanez del Campo", "Antofagasta", "Arica y Parinacota", "Atacama", "Biobio", "Coquimbo", "La Araucania", "Libertador General Bernardo O'Higgins", "Los Lagos", "Magallanes", "Maule", "Nuble", "Region Metropolitana de Santiago", "Tarapaca", "Valparaiso"]
   },
   {
     "country": "China",
-    "region": "Anhui Sheng, Beijing Shi, Chongqing Shi, Fujian Sheng, Gansu Sheng, Guangdong Sheng, Guangxi Zhuangzu Zizhiqu, Guizhou Sheng, Hainan Sheng, Hebei Sheng, Heilongjiang Sheng, Henan Sheng, Hubei Sheng, Hunan Sheng, Jiangsu Sheng, Jiangxi Sheng, Jilin Sheng, Liaoning Sheng, Nei Mongol Zizhiqu, Ningxia Huizu Zizhiqu, Qinghai Sheng, Shaanxi Sheng, Shandong Sheng, Shanghai Shi, Shanxi Sheng, Sichuan Sheng, Tianjin Shi, Xinjiang Uygur Zizhiqu, Xizang Zizhiqu, Yunnan Sheng, Zhejiang Sheng"
+    "region": ["Anhui Sheng", "Beijing Shi", "Chongqing Shi", "Fujian Sheng", "Gansu Sheng", "Guangdong Sheng", "Guangxi Zhuangzu Zizhiqu", "Guizhou Sheng", "Hainan Sheng", "Hebei Sheng", "Heilongjiang Sheng", "Henan Sheng", "Hubei Sheng", "Hunan Sheng", "Jiangsu Sheng", "Jiangxi Sheng", "Jilin Sheng", "Liaoning Sheng", "Nei Mongol Zizhiqu", "Ningxia Huizu Zizhiqu", "Qinghai Sheng", "Shaanxi Sheng", "Shandong Sheng", "Shanghai Shi", "Shanxi Sheng", "Sichuan Sheng", "Tianjin Shi", "Xinjiang Uygur Zizhiqu", "Xizang Zizhiqu", "Yunnan Sheng", "Zhejiang Sheng"]
   },
   {
     "country": "Colombia",
-    "region": "Amazonas, Bolivar, Cordoba, Huila, Sucre, Antioquia, Arauca, Atlantico, Boyaca, Caldas, Caqueta, Casanare, Cauca, Cesar, Choco, Cundinamarca, Distrito Capital de Bogota, Guainia, Guaviare, La Guajira, Magdalena, Meta, Narino, Norte de Santander, Putumayo, Quindio, Risaralda, San Andres, Providencia y Santa Catalina, Santander, Tolima, Valle del Cauca, Vaupes, Vichada"
+    "region": ["Amazonas", "Bolivar", "Cordoba", "Huila", "Sucre", "Antioquia", "Arauca", "Atlantico", "Boyaca", "Caldas", "Caqueta", "Casanare", "Cauca", "Cesar", "Choco", "Cundinamarca", "Distrito Capital de Bogota", "Guainia", "Guaviare", "La Guajira", "Magdalena", "Meta", "Narino", "Norte de Santander", "Putumayo", "Quindio", "Risaralda", "San Andres", "Providencia y Santa Catalina", "Santander", "Tolima", "Valle del Cauca", "Vaupes", "Vichada"]
   },
   {
     "country": "Comoros",
-    "region": "Anjouan, Grande Comore, Moheli"
+    "region": ["Anjouan", "Grande Comore", "Moheli"]
   },
   {
     "country": "Congo, Democratic Republic of the",
@@ -217,7 +217,7 @@
   },
   {
     "country": "Eritrea",
-    "region": "Anseba, Debub, Debubawi K’eyyih Bahri, Gash-Barka, Ma’ikel, Semienawi K’eyyih Bahri"
+    "region": "Anseba, Debub, Debubawi K'eyyih Bahri, Gash-Barka, Ma'ikel, Semienawi K'eyyih Bahri"
   },
   {
     "country": "Estonia",
@@ -241,7 +241,7 @@
   },
   {
     "country": "France",
-    "region": "Jura, Nord, Ain, Aisne, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Alsace, Ardeche, Ardennes, Ariege, Aube, Aude, Auvergne-Rhone-Alpes, Aveyron, Bas-Rhin, Bouches-du-Rhone, Bourgogne-Franche-Comte, Bretagne, Calvados, Cantal, Centre-Val de Loire, Charente, Charente-Maritime, Cher, Clipperton, Correze, Corse, Corse-du-Sud, Cote-d'Or, Cotes-d'Armor, Creuse, Deux-Sevres, Dordogne, Doubs, Drome, Essonne, Eure, Eure-et-Loir, Finistere, Gard, Gers, Gironde, Grand-Est, Haute-Corse, Haute-Garonne, Haute-Loire, Haute-Marne, Hautes-Alpes, Haute-Saone, Haute-Savoie, Hautes-Pyrenees, Haute-Vienne, Haut-Rhin, Hauts-de-France, Hauts-de-Seine, Herault, Ile-de-France, Ille-et-Vilaine, Indre, Indre-et-Loire, Isere, Landes, Loire, Loire-Atlantique, Loiret, Loir-et-Cher, Lot, Lot-et-Garonne, Lozere, Maine-et-Loire, Manche, Marne, Mayenne, Metropole de Lyon, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nievre, Normandie, Nouvelle-Aquitaine, Occitanie, Oise, Orne, Paris, Pas-de-Calais, Pays-de-la-Loire, Provence-Alpes-Cote-d’Azur, Puy-de-Dome, Pyrenees-Atlantiques, Pyrenees-Orientales, Rhone, Saone-et-Loire, Sarthe, Savoie, Seine-et-Marne, Seine-Maritime, Seine-Saint-Denis, Somme, Tarn, Tarn-et-Garonne, Territoire de Belfort, Val-de-Marne, Val-d'Oise, Var, Vaucluse, Vendee, Vienne, Vosges, Yonne, Yvelines"
+    "region": "Jura, Nord, Ain, Aisne, Allier, Alpes-de-Haute-Provence, Alpes-Maritimes, Alsace, Ardeche, Ardennes, Ariege, Aube, Aude, Auvergne-Rhone-Alpes, Aveyron, Bas-Rhin, Bouches-du-Rhone, Bourgogne-Franche-Comte, Bretagne, Calvados, Cantal, Centre-Val de Loire, Charente, Charente-Maritime, Cher, Clipperton, Correze, Corse, Corse-du-Sud, Cote-d'Or, Cotes-d'Armor, Creuse, Deux-Sevres, Dordogne, Doubs, Drome, Essonne, Eure, Eure-et-Loir, Finistere, Gard, Gers, Gironde, Grand-Est, Haute-Corse, Haute-Garonne, Haute-Loire, Haute-Marne, Hautes-Alpes, Haute-Saone, Haute-Savoie, Hautes-Pyrenees, Haute-Vienne, Haut-Rhin, Hauts-de-France, Hauts-de-Seine, Herault, Ile-de-France, Ille-et-Vilaine, Indre, Indre-et-Loire, Isere, Landes, Loire, Loire-Atlantique, Loiret, Loir-et-Cher, Lot, Lot-et-Garonne, Lozere, Maine-et-Loire, Manche, Marne, Mayenne, Metropole de Lyon, Meurthe-et-Moselle, Meuse, Morbihan, Moselle, Nievre, Normandie, Nouvelle-Aquitaine, Occitanie, Oise, Orne, Paris, Pas-de-Calais, Pays-de-la-Loire, Provence-Alpes-Cote-d'Azur, Puy-de-Dome, Pyrenees-Atlantiques, Pyrenees-Orientales, Rhone, Saone-et-Loire, Sarthe, Savoie, Seine-et-Marne, Seine-Maritime, Seine-Saint-Denis, Somme, Tarn, Tarn-et-Garonne, Territoire de Belfort, Val-de-Marne, Val-d'Oise, Var, Vaucluse, Vendee, Vienne, Vosges, Yonne, Yvelines"
   },
   {
     "country": "Gabon",
@@ -293,7 +293,7 @@
   },
   {
     "country": "Haiti",
-    "region": "Centre, Nord, Nord-Ouest, Ouest, Sud, Artibonite, Grande’Anse, Nippes, Nord-Est, Sud-Est"
+    "region": "Centre, Nord, Nord-Ouest, Ouest, Sud, Artibonite, Grande'Anse, Nippes, Nord-Est, Sud-Est"
   },
   {
     "country": "Honduras",
@@ -321,7 +321,7 @@
   },
   {
     "country": "Iraq",
-    "region": "Al Anbar, Al Basrah, Al Muthanna, Al Qadisiyah, An Najaf, Arbil, As Sulaymaniyah, Babil, Baghdad, Dahuk, Dhi Qar, Diyala, Iqlim Kurdistan, Karbala’, Kirkuk, Maysan, Ninawa, Salah ad Din, Wasit"
+    "region": "Al Anbar, Al Basrah, Al Muthanna, Al Qadisiyah, An Najaf, Arbil, As Sulaymaniyah, Babil, Baghdad, Dahuk, Dhi Qar, Diyala, Iqlim Kurdistan, Karbala', Kirkuk, Maysan, Ninawa, Salah ad Din, Wasit"
   },
   {
     "country": "Ireland",
@@ -345,7 +345,7 @@
   },
   {
     "country": "Jordan",
-    "region": "Al ‘Asimah, Ajlun, Al ‘Aqabah, Al Balqa’, Al Karak, Al Mafraq, At Tafilah, Az Zarqa’, Irbid, Jarash, Ma‘an, Madaba"
+    "region": "Al ‘Asimah, Ajlun, Al ‘Aqabah, Al Balqa', Al Karak, Al Mafraq, At Tafilah, Az Zarqa', Irbid, Jarash, Ma‘an, Madaba"
   },
   {
     "country": "Kazakhstan",
@@ -365,7 +365,7 @@
   },
   {
     "country": "Kuwait",
-    "region": "Al ‘asimah, Al Ahmadi, Al Farwaniyah, Al Jahra’, Hawalli, Mubarak al Kabir"
+    "region": "Al ‘asimah, Al Ahmadi, Al Farwaniyah, Al Jahra', Hawalli, Mubarak al Kabir"
   },
   {
     "country": "Kyrgyzstan",
@@ -393,7 +393,7 @@
   },
   {
     "country": "Libya",
-    "region": "Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi, Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus, Wadi al Hayat, Wadi ash Shati’"
+    "region": "Al Butnan, Al Jabal al Akhdar, Al Jabal al Gharbi, Al Jafarah, Al Jufrah, Al Kufrah, Al Marj, Al Marqab, Al Wahat, An Nuqat al Khams, Az Zawiyah, Banghazi, Darnah, Ghat, Misratah, Murzuq, Nalut, Sabha, Surt, Tarabulus, Wadi al Hayat, Wadi ash Shati'"
   },
   {
     "country": "Liechtenstein",
@@ -469,7 +469,7 @@
   },
   {
     "country": "Morocco",
-    "region": "Safi, Agadir-Ida-Ou-Tanane, Al Haouz, Al Hoceima, Aousserd, Assa-Zag, Azilal, Beni Mellal, Beni Mellal-Khenifra, Benslimane, Berkane, Berrechid, Boujdour, Boulemane, Casablanca, Casablanca-Settat, Chefchaouen, Chichaoua, Chtouka-Ait Baha, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Driouch, El Hajeb, El Jadida, El Kelaa des Sraghna, Errachidia, Essaouira, Es-Semara, Fahs-Anjra, Fes, Fes-Meknes, Figuig, Fquih Ben Salah, Guelmim, Guelmim-Oued Noun, Guercif, Ifrane, Inezgane-Ait Melloul, Jerada, Kenitra, Khemisset, Khenifra, Khouribga, Laayoune, Laayoune-Sakia El Hamra, Larache, L'Oriental, M’diq-Fnideq, Marrakech, Marrakech-Safi, Mediouna, Meknes, Midelt, Mohammadia, Moulay Yacoub, Nador, Nouaceur, Ouarzazate, Oued Ed-Dahab, Ouezzane, Oujda-Angad, Rabat, Rabat-Sale-Kenitra, Rehamna, Sale, Sefrou, Settat, Sidi Bennour, Sidi Ifni, Sidi Kacem, Sidi Slimane, Skhirate-Temara, Souss-Massa, Tanger-Assilah, Tanger-Tetouan-Al Hoceima, Tan-Tan, Taounate, Taourirt, Tarfaya, Taroudannt, Tata, Taza, Tetouan, Tinghir, Tiznit, Youssoufia, Zagora"
+    "region": "Safi, Agadir-Ida-Ou-Tanane, Al Haouz, Al Hoceima, Aousserd, Assa-Zag, Azilal, Beni Mellal, Beni Mellal-Khenifra, Benslimane, Berkane, Berrechid, Boujdour, Boulemane, Casablanca, Casablanca-Settat, Chefchaouen, Chichaoua, Chtouka-Ait Baha, Dakhla-Oued Ed-Dahab, Draa-Tafilalet, Driouch, El Hajeb, El Jadida, El Kelaa des Sraghna, Errachidia, Essaouira, Es-Semara, Fahs-Anjra, Fes, Fes-Meknes, Figuig, Fquih Ben Salah, Guelmim, Guelmim-Oued Noun, Guercif, Ifrane, Inezgane-Ait Melloul, Jerada, Kenitra, Khemisset, Khenifra, Khouribga, Laayoune, Laayoune-Sakia El Hamra, Larache, L'Oriental, M'diq-Fnideq, Marrakech, Marrakech-Safi, Mediouna, Meknes, Midelt, Mohammadia, Moulay Yacoub, Nador, Nouaceur, Ouarzazate, Oued Ed-Dahab, Ouezzane, Oujda-Angad, Rabat, Rabat-Sale-Kenitra, Rehamna, Sale, Sefrou, Settat, Sidi Bennour, Sidi Ifni, Sidi Kacem, Sidi Slimane, Skhirate-Temara, Souss-Massa, Tanger-Assilah, Tanger-Tetouan-Al Hoceima, Tan-Tan, Taounate, Taourirt, Tarfaya, Taroudannt, Tata, Taza, Tetouan, Tinghir, Tiznit, Youssoufia, Zagora"
   },
   {
     "country": "Mozambique",
@@ -745,7 +745,7 @@
   },
   {
     "country": "United Arab Emirates",
-    "region": "Ajman, Abu Zaby, Al Fujayrah, Ash Shariqah, Dubayy, Ra’s al Khaymah, Umm al Qaywayn"
+    "region": "Ajman, Abu Zaby, Al Fujayrah, Ash Shariqah, Dubayy, Ra's al Khaymah, Umm al Qaywayn"
   },
   {
     "country": "United Kingdom",
@@ -785,7 +785,7 @@
   },
   {
     "country": "Yemen",
-    "region": "Al Jawf, Adan, Amran, Abyan, Ad Dali‘, Al Bayda’, Al Hudaydah, Al Mahrah, Al Mahwit, Amanat al ‘Asimah , Arkhabil Suqutra, Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma’rib, Raymah, Saʻdah, Sanʻa’, Shabwah, Taʻizz"
+    "region": "Al Jawf, Adan, Amran, Abyan, Ad Dali‘, Al Bayda', Al Hudaydah, Al Mahrah, Al Mahwit, Amanat al ‘Asimah , Arkhabil Suqutra, Dhamar, Hadramawt, Hajjah, Ibb, Lahij, Ma'rib, Raymah, Saʻdah, Sanʻa', Shabwah, Taʻizz"
   },
   {
     "country": "Zambia",
