@@ -34,9 +34,8 @@
       "Uruzgan",
       "Wardak",
       "Zabul"
-    ]
-  },
-  {
+    ],
+
     "Albania": [
       "Berat",
       "Diber",
@@ -50,9 +49,7 @@
       "Shkoder",
       "Tirane",
       "Vlore"
-    ]
-  },
-  {
+    ],
     "Algeria": [
       "Adrar",
       "Ain Defla",
@@ -102,9 +99,7 @@
       "Tissemsilt",
       "Tizi Ouzou",
       "Tlemcen"
-    ]
-  },
-  {
+    ],
     "Andorra": [
       "Andorra la Vella",
       "Canillo",
@@ -113,9 +108,7 @@
       "La Massana",
       "Ordino",
       "Sant Julia de Loria"
-    ]
-  },
-  {
+    ],
     "Angola": [
       "Huila",
       "Bengo",
@@ -135,9 +128,7 @@
       "Namibe",
       "Uige",
       "Zaire"
-    ]
-  },
-  {
+    ],
     "Antigua and Barbuda": [
       "Saint George",
       "Saint John",
@@ -147,9 +138,7 @@
       "Saint Philip",
       "Barbuda",
       "Redonda"
-    ]
-  },
-  {
+    ],
     "Argentina": [
       "Cordoba",
       "La Rioja",
@@ -174,9 +163,7 @@
       "Santa Fe, Santiago del Estero",
       "Tierra del Fuego",
       "Tucuman"
-    ]
-  },
-  {
+    ],
     "Armenia": [
       "Aragacotn",
       "Ararat",
@@ -189,9 +176,7 @@
       "Syunik'",
       "Tavus",
       "Vayoc Jor"
-    ]
-  },
-  {
+    ],
     "Australia": [
       "Australian Capital Territory",
       "New South Wales",
@@ -201,9 +186,7 @@
       "Tasmania",
       "Victoria",
       "Western Australia"
-    ]
-  },
-  {
+    ],
     "Austria": [
       "Burgenland",
       "Karnten",
@@ -214,9 +197,7 @@
       "Tirol",
       "Vorarlberg",
       "Wien"
-    ]
-  },
-  {
+    ],
     "Azerbaijan": [
       "Lankaran",
       "Naxcivan",
@@ -292,9 +273,7 @@
       "Zaqatala",
       "Zangilan",
       "Zardab"
-    ]
-  },
-  {
+    ],
     "Bahamas": [
       "San Salvador",
       "Acklins",
@@ -328,12 +307,8 @@
       "South Eleuthera",
       "Spanish Wells",
       "West Grand Bahama"
-    ]
-  },
-  {
-    "Bahrain": ["Al 'Asimah", "Ash Shamaliyah", "Al Janubiyah", "Al Muharraq"]
-  },
-  {
+    ],
+    "Bahrain": ["Al 'Asimah", "Ash Shamaliyah", "Al Janubiyah", "Al Muharraq"],
     "Bangladesh": [
       "Barishal",
       "Chattogram",
@@ -399,9 +374,7 @@
       "Sunamganj",
       "Tangail",
       "Thakurgaon"
-    ]
-  },
-  {
+    ],
     "Barbados": [
       "Saint Andrew",
       "Saint George",
@@ -414,9 +387,7 @@
       "Christ Church",
       "Saint Lucy",
       "Saint Michael"
-    ]
-  },
-  {
+    ],
     "Belarus": [
       "Bresckaja voblasc",
       "Homieĺskaja voblasc",
@@ -425,9 +396,7 @@
       "Mahiliouskaja voblasc",
       "Minskaja voblasc",
       "Viciebskaja voblasc"
-    ]
-  },
-  {
+    ],
     "Belgium": [
       "Limburg",
       "Antwerpen",
@@ -442,9 +411,7 @@
       "Vlaams-Brabant",
       "wallonne Region",
       "West-Vlaanderen"
-    ]
-  },
-  {
+    ],
     "Belize": [
       "Toledo",
       "Belize",
@@ -452,9 +419,7 @@
       "Corozal",
       "Orange Walk",
       "Stann Creek"
-    ]
-  },
-  {
+    ],
     "Benin": [
       "Littoral",
       "Plateau",
@@ -468,9 +433,7 @@
       "Mono",
       "Oueme",
       "Zou"
-    ]
-  },
-  {
+    ],
     "Bhutan": [
       "Bumthang",
       "Chhukha",
@@ -492,9 +455,7 @@
       "Tsirang",
       "Wangdue Phodrang",
       "Zhemgang"
-    ]
-  },
-  {
+    ],
     "Bolivia": [
       "La Paz",
       "Santa Cruz",
@@ -505,19 +466,13 @@
       "Pando",
       "Potosi",
       "Tarija"
-    ]
-  },
-  {
-    "Bonaire, Sint Eustatius and Saba": ["Bonaire", "Saba", "Sint Eustatius"]
-  },
-  {
+    ],
+    "Bonaire, Sint Eustatius and Saba": ["Bonaire", "Saba", "Sint Eustatius"],
     "Bosnia and Herzegovina": [
       "Brcko distrikt",
       "Federacija Bosne i Hercegovine",
       "Republika Srpska"
-    ]
-  },
-  {
+    ],
     "Botswana": [
       "Central",
       "North East",
@@ -535,9 +490,7 @@
       "Lobatse",
       "Selibe Phikwe",
       "Sowa Town"
-    ]
-  },
-  {
+    ],
     "Brazil": [
       "Amazonas",
       "Para",
@@ -566,12 +519,8 @@
       "Sao Paulo",
       "Sergipe",
       "Tocantins"
-    ]
-  },
-  {
-    "Brunei Darussalam": ["Belait", "Brunei-Muara", "Temburong", "Tutong"]
-  },
-  {
+    ],
+    "Brunei Darussalam": ["Belait", "Brunei-Muara", "Temburong", "Tutong"],
     "Bulgaria": [
       "Montana",
       "Ruse",
@@ -601,9 +550,7 @@
       "Vidin",
       "Vratsa",
       "Yambol"
-    ]
-  },
-  {
+    ],
     "Burkina Faso": [
       "Centre",
       "Comoe",
@@ -658,21 +605,15 @@
       "Zlin",
       "Zlinsky kraj",
       "Znojmo"
-    ]
-  },
-  {
+    ],
     "Denmark": [
       "Hovedstaden",
       "Midtjylland",
       "Nordjylland",
       "Sjaelland",
       "Syddanmark"
-    ]
-  },
-  {
-    "Djibouti": ["Ali Sabih", "Arta", "Awbuk", "Dikhil", "Jibuti", "Tajurah"]
-  },
-  {
+    ],
+    "Djibouti": ["Ali Sabih", "Arta", "Awbuk", "Dikhil", "Jibuti", "Tajurah"],
     "Dominica": [
       "Saint Andrew",
       "Saint David",
@@ -684,9 +625,7 @@
       "Saint Paul",
       "Saint Peter",
       "Saint Luke"
-    ]
-  },
-  {
+    ],
     "Dominican Republic": [
       "Azua",
       "Baoruco",
@@ -730,9 +669,7 @@
       "Valdesia",
       "Valverde",
       "Yuma"
-    ]
-  },
-  {
+    ],
     "Ecuador": [
       "Azuay",
       "Bolivar",
@@ -758,9 +695,7 @@
       "Sucumbios",
       "Tungurahua",
       "Zamora Chinchipe"
-    ]
-  },
-  {
+    ],
     "Egypt": [
       "Ad Daqahliyah",
       "Al Bahr al Ahmar",
@@ -788,9 +723,7 @@
       "Qina",
       "Shamal Sina'",
       "Suhaj"
-    ]
-  },
-  {
+    ],
     "El Salvador": [
       "Ahuachapan",
       "Cabanas",
@@ -806,9 +739,7 @@
       "Santa Ana",
       "Sonsonate",
       "Usulutan"
-    ]
-  },
-  {
+    ],
     "Equatorial Guinea": [
       "Annobon",
       "Bioko Norte",
@@ -820,9 +751,7 @@
       "Region Continental",
       "Region Insular",
       "Wele-Nzas"
-    ]
-  },
-  {
+    ],
     "Eritrea": [
       "Anseba",
       "Debub",
@@ -830,9 +759,7 @@
       "Gash-Barka",
       "Ma'ikel",
       "Semienawi K'eyyih Bahri"
-    ]
-  },
-  {
+    ],
     "Estonia": [
       "Alutaguse",
       "Anija",
@@ -920,12 +847,8 @@
       "Viru-Nigula",
       "Vormsi",
       "Vorumaa"
-    ]
-  },
-  {
-    "Eswatini": ["Hhohho", "Lubombo", "Manzini", "Shiselweni"]
-  },
-  {
+    ],
+    "Eswatini": ["Hhohho", "Lubombo", "Manzini", "Shiselweni"],
     "Ethiopia": [
       "Adis Abeba",
       "Afar",
@@ -939,9 +862,7 @@
       "Sumale",
       "Tigray",
       "YeDebub Biheroch Bihereseboch na Hizboch"
-    ]
-  },
-  {
+    ],
     "Fiji": [
       "Ba",
       "Bua",
@@ -962,9 +883,7 @@
       "Serua",
       "Tailevu",
       "Western"
-    ]
-  },
-  {
+    ],
     "Finland": [
       "Ahvenanmaan maakunta",
       "Etela-Karjala",
@@ -985,9 +904,7 @@
       "Satakunta",
       "Uusimaa",
       "Varsinais-Suomi"
-    ]
-  },
-  {
+    ],
     "France": [
       "Ain",
       "Aisne",
@@ -1098,9 +1015,7 @@
       "Vosges",
       "Yonne",
       "Yvelines"
-    ]
-  },
-  {
+    ],
     "Gabon": [
       "Estuaire",
       "Haut-Ogooue",
@@ -1111,9 +1026,7 @@
       "Ogooue-Lolo",
       "Ogooue-Maritime",
       "Woleu-Ntem"
-    ]
-  },
-  {
+    ],
     "Gambia": [
       "Banjul",
       "Central River",
@@ -1121,9 +1034,7 @@
       "North Bank",
       "Upper River",
       "Western"
-    ]
-  },
-  {
+    ],
     "Georgia": [
       "Abkhazia",
       "Ajaria",
@@ -1137,9 +1048,7 @@
       "Samtskhe-Javakheti",
       "Shida Kartli",
       "Tbilisi"
-    ]
-  },
-  {
+    ],
     "Germany": [
       "Baden-Wurttemberg",
       "Bayern",
@@ -1157,9 +1066,7 @@
       "Sachsen-Anhalt",
       "Schleswig-Holstein",
       "Thuringen"
-    ]
-  },
-  {
+    ],
     "Ghana": [
       "Ahafo",
       "Ashanti",
@@ -1177,9 +1084,7 @@
       "Volta",
       "Western",
       "Western North"
-    ]
-  },
-  {
+    ],
     "Greece": [
       "Agion Oros",
       "Anatoliki Makedonia kai Thraki",
@@ -1195,18 +1100,14 @@
       "Sterea Ellada",
       "Thessalia",
       "Voreio Aigaio"
-    ]
-  },
-  {
+    ],
     "Greenland": [
       "Avannaata Kommunia",
       "Kommune Kujalleq",
       "Kommune Qeqertalik",
       "Kommuneqarfik Sermersooq",
       "Qeqqata Kommunia"
-    ]
-  },
-  {
+    ],
     "Grenada": [
       "Saint Andrew",
       "Saint David",
@@ -1215,9 +1116,7 @@
       "Saint Mark",
       "Saint Patrick",
       "Southern Grenadine Islands"
-    ]
-  },
-  {
+    ],
     "Guatemala": [
       "Alta Verapaz",
       "Baja Verapaz",
@@ -1241,9 +1140,7 @@
       "Suchitepequez",
       "Totonicapan",
       "Zacapa"
-    ]
-  },
-  {
+    ],
     "Guinea": [
       "Beyla",
       "Boffa",
@@ -1279,9 +1176,7 @@
       "Telimele",
       "Tougue",
       "Yomou"
-    ]
-  },
-  {
+    ],
     "Guinea-Bissau": [
       "Bafata",
       "Biombo",
@@ -1295,9 +1190,7 @@
       "Quinara",
       "Sul",
       "Tombali"
-    ]
-  },
-  {
+    ],
     "Guyana": [
       "Barima-Waini",
       "Cuyuni-Mazaruni",
@@ -1309,9 +1202,7 @@
       "Potaro-Siparuni",
       "Upper Demerara-Berbice",
       "Upper Takutu-Upper Essequibo"
-    ]
-  },
-  {
+    ],
     "Haiti": [
       "Artibonite",
       "Centre",
@@ -1323,9 +1214,7 @@
       "Ouest",
       "Sud",
       "Sud-Est"
-    ]
-  },
-  {
+    ],
     "Honduras": [
       "Atlantida",
       "Choluteca",
@@ -1344,9 +1233,7 @@
       "Santa Barbara",
       "Valle",
       "Yoro"
-    ]
-  },
-  {
+    ],
     "Hungary": [
       "Bacs-Kiskun",
       "Baranya",
@@ -1390,9 +1277,7 @@
       "Veszprem",
       "Zala",
       "Zalaegerszeg"
-    ]
-  },
-  {
+    ],
     "Iceland": [
       "Akrahreppur",
       "Akraneskaupstadur",
@@ -1471,9 +1356,7 @@
       "Vesturbyggd",
       "Vesturland",
       "Vopnafjardarhreppur"
-    ]
-  },
-  {
+    ],
     "India": [
       "Andaman and Nicobar Islands",
       "Andhra Pradesh",
@@ -1511,9 +1394,7 @@
       "Uttar Pradesh",
       "Uttarakhand",
       "West Bengal"
-    ]
-  },
-  {
+    ],
     "Indonesia": [
       "Aceh",
       "Bali",
@@ -1554,9 +1435,7 @@
       "Sumatera Selatan",
       "Sumatera Utara",
       "Yogyakarta"
-    ]
-  },
-  {
+    ],
     "Iran": [
       "Alborz",
       "Ardabil",
@@ -1589,9 +1468,7 @@
       "Tehran",
       "Yazd",
       "Zanjan"
-    ]
-  },
-  {
+    ],
     "Iraq": [
       "Al Anbar",
       "Al Basrah",
@@ -1612,9 +1489,7 @@
       "Ninawa",
       "Salah ad Din",
       "Wasit"
-    ]
-  },
-  {
+    ],
     "Ireland": [
       "Carlow",
       "Cavan",
@@ -1646,9 +1521,7 @@
       "Westmeath",
       "Wexford",
       "Wicklow"
-    ]
-  },
-  {
+    ],
     "Israel": [
       "HaDarom",
       "HaMerkaz",
@@ -1656,9 +1529,7 @@
       "H̱efa",
       "Tel Aviv",
       "Yerushalayim"
-    ]
-  },
-  {
+    ],
     "Italy": [
       "Abruzzo",
       "Agrigento",
@@ -1785,9 +1656,7 @@
       "Vibo Valentia",
       "Vicenza",
       "Viterbo"
-    ]
-  },
-  {
+    ],
     "Jamaica": [
       "Clarendon",
       "Hanover",
@@ -1803,9 +1672,7 @@
       "Saint Thomas",
       "Trelawny",
       "Westmoreland"
-    ]
-  },
-  {
+    ],
     "Japan": [
       "Aiti",
       "Akita",
@@ -1854,9 +1721,7 @@
       "Yamagata",
       "Yamaguti",
       "Yamanasi"
-    ]
-  },
-  {
+    ],
     "Jordan": [
       "Ajlun",
       "Al 'Aqabah",
@@ -1870,9 +1735,7 @@
       "Jarash",
       "Ma'an",
       "Madaba"
-    ]
-  },
-  {
+    ],
     "Kazakhstan": [
       "Almaty",
       "Almaty oblysy",
@@ -1891,9 +1754,7 @@
       "Soltustik Qazaqstan oblysy",
       "Turkistan oblysy",
       "Zhambyl oblysy"
-    ]
-  },
-  {
+    ],
     "Kenya": [
       "Baringo",
       "Bomet",
@@ -1942,12 +1803,8 @@
       "Vihiga",
       "Wajir",
       "West Pokot"
-    ]
-  },
-  {
-    "Kiribati": ["Gilbert Islands", "Line Islands", "Phoenix Islands"]
-  },
-  {
+    ],
+    "Kiribati": ["Gilbert Islands", "Line Islands", "Phoenix Islands"],
     "Korea, Republic of": [
       "Busan-gwangyeoksi",
       "Chungcheongbuk-do",
@@ -1966,9 +1823,7 @@
       "Sejong",
       "Seoul-teukbyeolsi",
       "Ulsan-gwangyeoksi"
-    ]
-  },
-  {
+    ],
     "Kuwait": [
       "Al Ahmadi",
       "Al 'asimah",
@@ -1976,9 +1831,7 @@
       "Al Jahra'",
       "Hawalli",
       "Mubarak al Kabir"
-    ]
-  },
-  {
+    ],
     "Kyrgyzstan": [
       "Batken",
       "Bishkek Shaary",
@@ -1989,9 +1842,7 @@
       "Osh Shaary",
       "Talas",
       "Ysyk-Kol"
-    ]
-  },
-  {
+    ],
     "Laos": [
       "Attapu",
       "Bokeo",
@@ -2010,9 +1861,7 @@
       "Xaisomboun",
       "Xekong",
       "Xiangkhouang"
-    ]
-  },
-  {
+    ],
     "Latvia": [
       "Adazu novads",
       "Aizkraukles novads",
@@ -2057,9 +1906,7 @@
       "Varakļanu novads",
       "Ventspils",
       "Ventspils novads"
-    ]
-  },
-  {
+    ],
     "Lebanon": [
       "Aakkar",
       "Baalbek-Hermel",
@@ -2069,9 +1916,7 @@
       "Liban-Sud",
       "Mont-Liban",
       "Nabatiye"
-    ]
-  },
-  {
+    ],
     "Lesotho": [
       "Berea",
       "Botha-Bothe",
@@ -2083,9 +1928,7 @@
       "Qacha's Nek",
       "Quthing",
       "Thaba-Tseka"
-    ]
-  },
-  {
+    ],
     "Liberia": [
       "Bomi",
       "Bong",
@@ -2102,9 +1945,7 @@
       "River Cess",
       "River Gee",
       "Sinoe"
-    ]
-  },
-  {
+    ],
     "Libya": [
       "Al Butnan",
       "Al Jabal al Akhdar",
@@ -2128,9 +1969,7 @@
       "Tarabulus",
       "Wadi al Hayat",
       "Wadi ash Shati'"
-    ]
-  },
-  {
+    ],
     "Liechtenstein": [
       "Balzers",
       "Eschen",
@@ -2143,9 +1982,7 @@
       "Triesen",
       "Triesenberg",
       "Vaduz"
-    ]
-  },
-  {
+    ],
     "Lithuania": [
       "Akmene",
       "Alytaus apskritis",
@@ -2217,9 +2054,7 @@
       "Vilnius",
       "Visaginas",
       "Zarasai"
-    ]
-  },
-  {
+    ],
     "Luxembourg": [
       "Diekrech",
       "Esch-Uelzecht",
@@ -2233,9 +2068,7 @@
       "Reimech",
       "Veianen",
       "Wolz"
-    ]
-  },
-  {
+    ],
     "Madagascar": [
       "Antananarivo",
       "Antsiranana",
@@ -2243,9 +2076,7 @@
       "Mahajanga",
       "Toamasina",
       "Toliara"
-    ]
-  },
-  {
+    ],
     "Malawi": [
       "Balaka",
       "Blantyre",
@@ -2278,9 +2109,7 @@
       "Salima",
       "Thyolo",
       "Zomba"
-    ]
-  },
-  {
+    ],
     "Malaysia": [
       "Johor",
       "Kedah",
@@ -2298,9 +2127,7 @@
       "Wilayah Persekutuan Kuala Lumpur",
       "Wilayah Persekutuan Labuan",
       "Wilayah Persekutuan Putrajaya"
-    ]
-  },
-  {
+    ],
     "Maldives": [
       "Addu",
       "Ariatholhu Dhekunuburi",
@@ -2323,9 +2150,7 @@
       "Nilandheatholhu Uthuruburi",
       "Thiladhunmathee Dhekunuburi",
       "Thiladhunmathee Uthuruburi"
-    ]
-  },
-  {
+    ],
     "Mali": [
       "Bamako",
       "Gao",
@@ -2338,9 +2163,7 @@
       "Sikasso",
       "Taoudenit",
       "Tombouctou"
-    ]
-  },
-  {
+    ],
     "Malta": [
       "Attard",
       "Balzan",
@@ -2410,9 +2233,7 @@
       "Zebbug Malta",
       "Zejtun",
       "Zurrieq"
-    ]
-  },
-  {
+    ],
     "Marshall Islands": [
       "Aelok",
       "Aelonlaplap",
@@ -2440,9 +2261,7 @@
       "Utrok",
       "Wojja",
       "Wotto"
-    ]
-  },
-  {
+    ],
     "Mauritania": [
       "Adrar",
       "Assaba",
@@ -2459,9 +2278,7 @@
       "Tagant",
       "Tiris Zemmour",
       "Trarza"
-    ]
-  },
-  {
+    ],
     "Mauritius": [
       "Agalega Islands",
       "Black River",
@@ -2475,9 +2292,7 @@
       "Riviere du Rempart",
       "Rodrigues Island",
       "Savanne"
-    ]
-  },
-  {
+    ],
     "Mexico": [
       "Aguascalientes",
       "Baja California",
@@ -2511,12 +2326,8 @@
       "Veracruz de Ignacio de la Llave",
       "Yucatan",
       "Zacatecas"
-    ]
-  },
-  {
-    "Micronesia": ["Chuuk", "Kosrae", "Pohnpei", "Yap"]
-  },
-  {
+    ],
+    "Micronesia": ["Chuuk", "Kosrae", "Pohnpei", "Yap"],
     "Moldova": [
       "Anenii Noi",
       "Balti",
@@ -2554,9 +2365,7 @@
       "Taraclia",
       "Telenesti",
       "Ungheni"
-    ]
-  },
-  {
+    ],
     "Monaco": [
       "Fontvieille",
       "Jardin Exotique",
@@ -2575,9 +2384,7 @@
       "Saint-Roman",
       "Spelugues",
       "Vallon de la Rousse"
-    ]
-  },
-  {
+    ],
     "Mongolia": [
       "Arhangay",
       "Bayanhongor",
@@ -2601,9 +2408,7 @@
       "Tov",
       "Ulaanbaatar",
       "Uvs"
-    ]
-  },
-  {
+    ],
     "Montenegro": [
       "Andrijevica",
       "Bar",
@@ -2629,9 +2434,7 @@
       "Tuzi",
       "Ulcinj",
       "Zabljak"
-    ]
-  },
-  {
+    ],
     "Morocco": [
       "Agadir-Ida-Ou-Tanane",
       "Aousserd",
@@ -2717,9 +2520,7 @@
       "Tiznit",
       "Youssoufia",
       "Zagora"
-    ]
-  },
-  {
+    ],
     "Mozambique": [
       "Cabo Delgado",
       "Gaza",
@@ -2731,9 +2532,7 @@
       "Sofala",
       "Tete",
       "Zambezia"
-    ]
-  },
-  {
+    ],
     "Myanmar": [
       "Ayeyarwady",
       "Bago",
@@ -2750,9 +2549,7 @@
       "Shan",
       "Tanintharyi",
       "Yangon"
-    ]
-  },
-  {
+    ],
     "Namibia": [
       "Erongo",
       "Hardap",
@@ -2768,9 +2565,7 @@
       "Oshikoto",
       "Otjozondjupa",
       "Zambezi"
-    ]
-  },
-  {
+    ],
     "Nauru": [
       "Aiwo",
       "Anabar",
@@ -2786,9 +2581,7 @@
       "Nibok",
       "Uaboe",
       "Yaren"
-    ]
-  },
-  {
+    ],
     "Nepal": [
       "Bagmati",
       "Bheri",
@@ -2812,9 +2605,7 @@
       "Seti",
       "Sudur Pashchim",
       "Sudur Pashchimanchal"
-    ]
-  },
-  {
+    ],
     "Netherlands": [
       "Drenthe",
       "Flevoland",
@@ -2828,9 +2619,7 @@
       "Utrecht",
       "Zeeland",
       "Zuid-Holland"
-    ]
-  },
-  {
+    ],
     "New Zealand": [
       "Auckland",
       "Bay of Plenty",
@@ -2849,9 +2638,7 @@
       "Waikato",
       "Wellington",
       "West Coast"
-    ]
-  },
-  {
+    ],
     "Nicaragua": [
       "Boaco",
       "Carazo",
@@ -2870,9 +2657,7 @@
       "Nueva Segovia",
       "Rio San Juan",
       "Rivas"
-    ]
-  },
-  {
+    ],
     "Niger": [
       "Agadez",
       "Diffa",
@@ -2882,9 +2667,7 @@
       "Tahoua",
       "Tillaberi",
       "Zinder"
-    ]
-  },
-  {
+    ],
     "Nigeria": [
       "Abia",
       "Abuja Federal Capital Territory",
@@ -2923,9 +2706,7 @@
       "Taraba",
       "Yobe",
       "Zamfara"
-    ]
-  },
-  {
+    ],
     "North Korea": [
       "Hamkyeongnamto",
       "Hamkyeongpukto",
@@ -2939,9 +2720,7 @@
       "Phyeongyang",
       "Raseon",
       "Ryangkangto"
-    ]
-  },
-  {
+    ],
     "North Macedonia": [
       "Aerodrom",
       "Aracinovo",
@@ -3023,9 +2802,7 @@
       "Zelenikovo",
       "Zelino",
       "Zrnovci"
-    ]
-  },
-  {
+    ],
     "Norway": [
       "Agder",
       "Innlandet",
@@ -3040,9 +2817,7 @@
       "Vestfold og Telemark",
       "Vestland",
       "Viken"
-    ]
-  },
-  {
+    ],
     "Oman": [
       "Ad Dakhiliyah",
       "Al Buraymi",
@@ -3055,9 +2830,7 @@
       "Shamal al Batinah",
       "Shamal ash Sharqiyah",
       "Zufar"
-    ]
-  },
-  {
+    ],
     "country": "Pakistan",
     "region": [
       "Azad Jammun o Kashmir",
@@ -3067,9 +2840,7 @@
       "Khaibar Pakhtunkhwa",
       "Panjab",
       "Sindh"
-    ]
-  },
-  {
+    ],
     "Palau": [
       "Aimeliik",
       "Airai",
@@ -3087,9 +2858,7 @@
       "Ngiwal",
       "Peleliu",
       "Sonsorol"
-    ]
-  },
-  {
+    ],
     "Palestine": [
       "Al Khalil",
       "Al Quds",
@@ -3107,9 +2876,7 @@
       "Shamal Ghazzah",
       "Tubas",
       "Tulkarm"
-    ]
-  },
-  {
+    ],
     "Panama": [
       "Bocas del Toro",
       "Chiriqui",
@@ -3125,9 +2892,7 @@
       "Panama",
       "Panama Oeste",
       "Veraguas"
-    ]
-  },
-  {
+    ],
     "Papua New Guinea": [
       "Bougainville",
       "Central",
@@ -3151,9 +2916,7 @@
       "West Sepik",
       "Western",
       "Western Highlands"
-    ]
-  },
-  {
+    ],
     "Paraguay": [
       "Alto Paraguay",
       "Alto Parana",
@@ -3173,9 +2936,7 @@
       "Paraguari",
       "Presidente Hayes",
       "San Pedro"
-    ]
-  },
-  {
+    ],
     "Peru": [
       "Amazonas",
       "Ancash",
@@ -3203,9 +2964,7 @@
       "Tacna",
       "Tumbes",
       "Ucayali"
-    ]
-  },
-  {
+    ],
     "Philippines": [
       "Abra",
       "Aklan",
@@ -3305,9 +3064,7 @@
       "Timog Lanaw",
       "Timog Sambuwangga",
       "Timog Surigaw"
-    ]
-  },
-  {
+    ],
     "Poland": [
       "Dolnosląskie",
       "Kujawsko-pomorskie",
@@ -3325,9 +3082,7 @@
       "Warmińsko-mazurskie",
       "Wielkopolskie",
       "Zachodniopomorskie"
-    ]
-  },
-  {
+    ],
     "Portugal": [
       "Aveiro",
       "Beja",
@@ -3349,9 +3104,7 @@
       "Viana do Castelo",
       "Vila Real",
       "Viseu"
-    ]
-  },
-  {
+    ],
     "Qatar": [
       "Ad Dawhah",
       "Al Khawr wa adh Dhakhirah",
@@ -3361,9 +3114,7 @@
       "Ash Shihaniyah",
       "Az Za'ayin",
       "Umm Salal"
-    ]
-  },
-  {
+    ],
     "Romania": [
       "Alba",
       "Arad",
@@ -3407,9 +3158,7 @@
       "Valcea",
       "Vaslui",
       "Vrancea"
-    ]
-  },
-  {
+    ],
     "Russian Federation": [
       "Adygeja, Respublika",
       "Altaj, Respublika",
@@ -3490,21 +3239,15 @@
       "Vologodskaja oblast'",
       "Voronezskaja oblast'",
       "Zabajkal'skij kraj"
-    ]
-  },
-  {
+    ],
     "Rwanda": [
       "Amajyaruguru",
       "Amajyepfo",
       "Iburasirazuba",
       "Iburengerazuba",
       "Umujyi wa Kigali"
-    ]
-  },
-  {
-    "Saint Helena, Ascension and Tristan da Cunha": ["Ascension", "Saint Helena", "Tristan da Cunha"]
-  },
-  {
+    ],
+    "Saint Helena, Ascension and Tristan da Cunha": ["Ascension", "Saint Helena", "Tristan da Cunha"],
     "Saint Kitts and Nevis": [
       "Christ Church Nichola Town",
       "Nevis",
@@ -3522,9 +3265,7 @@
       "Saint Thomas Lowland",
       "Saint Thomas Middle Island",
       "Trinity Palmetto Point"
-    ]
-  },
-  {
+    ],
     "Saint Lucia": [
       "Anse la Raye",
       "Canaries",
@@ -3536,9 +3277,7 @@
       "Micoud",
       "Soufriere",
       "Vieux Fort"
-    ]
-  },
-  {
+    ],
     "Saint Vincent and the Grenadines": [
       "Charlotte",
       "Grenadines",
@@ -3546,9 +3285,7 @@
       "Saint David",
       "Saint George",
       "Saint Patrick"
-    ]
-  },
-  {
+    ],
     "Samoa": [
       "A'ana",
       "Aiga-i-le-Tai",
@@ -3561,9 +3298,7 @@
       "Tuamasaga",
       "Va'a-o-Fonoti",
       "Vaisigano"
-    ]
-  },
-  {
+    ],
     "San Marino": [
       "Acquaviva",
       "Borgo Maggiore",
@@ -3574,9 +3309,7 @@
       "Fiorentino",
       "Montegiardino",
       "Serravalle"
-    ]
-  },
-  {
+    ],
     "Sao Tome and Principe": [
       "Agua Grande",
       "Cantagalo",
@@ -3585,9 +3318,7 @@
       "Lobata",
       "Me-Zochi",
       "Principe"
-    ]
-  },
-  {
+    ],
     "Saudi Arabia": [
       "Al Bahah",
       "Al Hudud ash Shamaliyah",
@@ -3602,9 +3333,7 @@
       "Makkah al Mukarramah",
       "Najran",
       "Tabuk"
-    ]
-  },
-  {
+    ],
     "Senegal": [
       "Dakar",
       "Diourbel",
@@ -3620,9 +3349,7 @@
       "Tambacounda",
       "Thies",
       "Ziguinchor"
-    ]
-  },
-  {
+    ],
     "Serbia": [
       "Beograd",
       "Borski okrug",
@@ -3656,9 +3383,7 @@
       "Zajecarski okrug",
       "Zapadnobacki okrug",
       "Zlatiborski okrug"
-    ]
-  },
-  {
+    ],
     "Seychelles": [
       "Ans Bwalo",
       "Ans Etwal",
@@ -3685,27 +3410,21 @@
       "Ros Kaiman",
       "Sen Lwi",
       "Takamaka"
-    ]
-  },
-  {
+    ],
     "Sierra Leone": [
       "Eastern",
       "North Western",
       "Northern",
       "Southern",
       "Western Area (Freetown)"
-    ]
-  },
-  {
+    ],
     "Singapore": [
       "Central Singapore",
       "North East",
       "North West",
       "South East",
       "South West"
-    ]
-  },
-  {
+    ],
     "Slovakia": [
       "Banskobystricky kraj",
       "Bratislavsky kraj",
@@ -3715,9 +3434,7 @@
       "Trenciansky kraj",
       "Trnavsky kraj",
       "Zilinsky kraj"
-    ]
-  },
-  {
+    ],
     "Slovenia": [
       "Ajdovscina",
       "Apace",
@@ -3955,9 +3672,7 @@
       "Zlatiborski okrug",
       "Zrece",
       "Zuzemberk"
-    ]
-  },
-  {
+    ],
     "Solomon Islands": [
       "Capital Territory (Honiara)",
       "Central",
@@ -3969,9 +3684,7 @@
       "Rennell and Bellona",
       "Temotu",
       "Western"
-    ]
-  },
-  {
+    ],
     "Somalia": [
       "Awdal",
       "Bakool",
@@ -3991,9 +3704,7 @@
       "Sool",
       "Togdheer",
       "Woqooyi Galbeed"
-    ]
-  },
-  {
+    ],
     "South Africa": [
       "Eastern Cape",
       "Free State",
@@ -4004,9 +3715,7 @@
       "Northern Cape",
       "North-West",
       "Western Cape"
-    ]
-  },
-  {
+    ],
     "South Sudan": [
       "Central Equatoria",
       "Eastern Equatoria",
@@ -4018,9 +3727,7 @@
       "Warrap",
       "Western Bahr el Ghazal",
       "Western Equatoria"
-    ]
-  },
-  {
+    ],
     "Spain": [
       "A Coruna",
       "Alava",
@@ -4088,9 +3795,7 @@
       "Valladolid",
       "Zamora",
       "Zaragoza"
-    ]
-  },
-  {
+    ],
     "Sri Lanka": [
       "Ampara",
       "Anuradhapura",
@@ -4126,9 +3831,7 @@
       "Vavuniyava",
       "Vayamba palata",
       "Yapanaya"
-    ]
-  },
-  {
+    ],
     "Sudan": [
       "Al Bahr al Ahmar",
       "Al Jazirah",
@@ -4148,9 +3851,7 @@
       "Sharq Darfur",
       "Sinnar",
       "Wasat Darfur"
-    ]
-  },
-  {
+    ],
     "Suriname": [
       "Brokopondo",
       "Commewijne",
@@ -4162,9 +3863,7 @@
       "Saramacca",
       "Sipaliwini",
       "Wanica"
-    ]
-  },
-  {
+    ],
     "Sweden": [
       "Blekinge lan",
       "Dalarnas lan",
@@ -4187,9 +3886,7 @@
       "Vasternorrlands lan",
       "Vastmanlands lan",
       "Vastra Gotalands lan"
-    ]
-  },
-  {
+    ],
     "Switzerland": [
       "Aargau",
       "Appenzell Ausserrhoden",
@@ -4217,9 +3914,7 @@
       "Wallis",
       "Zug",
       "Zurich"
-    ]
-  },
-  {
+    ],
     "Syria": [
       "Al Hasakah",
       "Al Ladhiqiyah",
@@ -4235,9 +3930,7 @@
       "Idlib",
       "Rif Dimashq",
       "Tartus"
-    ]
-  },
-  {
+    ],
     "Taiwan": [
       "Changhua",
       "Chiayi",
@@ -4259,18 +3952,14 @@
       "Taoyuan",
       "Yilan",
       "Yunlin"
-    ]
-  },
-  {
+    ],
     "Tajikistan": [
       "Dushanbe",
       "Khatlon",
       "Kuhistoni Badakhshon",
       "nohiyahoi tobei jumhuri",
       "Sughd"
-    ]
-  },
-  {
+    ],
     "Tanzania": [
       "Arusha",
       "Dar es Salaam",
@@ -4303,9 +3992,7 @@
       "Songwe",
       "Tabora",
       "Tanga"
-    ]
-  },
-  {
+    ],
     "Thailand": [
       "Amnat Charoen",
       "Ang Thong",
@@ -4385,9 +4072,7 @@
       "Uttaradit",
       "Yala",
       "Yasothon"
-    ]
-  },
-  {
+    ],
     "Timor-Leste": [
       "Aileu",
       "Ainaru",
@@ -4402,15 +4087,9 @@
       "Manufahi",
       "Oekusi-Ambenu",
       "Vikeke"
-    ]
-  },
-  {
-    "Togo": ["Centrale", "Kara", "Maritime (Region)", "Plateaux", "Savanes"]
-  },
-  {
-    "Tonga": ["Eua", "Ha'apai", "Niuas", "Tongatapu", "Vava'u"]
-  },
-  {
+    ],
+    "Togo": ["Centrale", "Kara", "Maritime (Region)", "Plateaux", "Savanes"],
+    "Tonga": ["Eua", "Ha'apai", "Niuas", "Tongatapu", "Vava'u"],
     "Trinidad and Tobago": [
       "Arima",
       "Chaguanas",
@@ -4427,9 +4106,7 @@
       "Siparia",
       "Tobago",
       "Tunapuna-Piarco"
-    ]
-  },
-  {
+    ],
     "Tunisia": [
       "Beja",
       "Ben Arous",
@@ -4455,9 +4132,7 @@
       "Tozeur",
       "Tunis",
       "Zaghouan"
-    ]
-  },
-  {
+    ],
     "Turkey": [
       "Adana",
       "Adiyaman",
@@ -4540,15 +4215,9 @@
       "Yalova",
       "Yozgat",
       "Zonguldak"
-    ]
-  },
-  {
-    "Turkmenistan": ["Ahal", "Asgabat", "Balkan", "Dasoguz", "Lebap", "Mary"]
-  },
-  {
-    "Tuvalu": ["Funafuti", "Nanumaga", "Nanumea", "Niutao", "Nui", "Nukufetau", "Nukulaelae", "Vaitupu"]
-  },
-  {
+    ],
+    "Turkmenistan": ["Ahal", "Asgabat", "Balkan", "Dasoguz", "Lebap", "Mary"],
+    "Tuvalu": ["Funafuti", "Nanumaga", "Nanumea", "Niutao", "Nui", "Nukufetau", "Nukulaelae", "Vaitupu"],
     "Uganda": [
       "Abim",
       "Adjumani",
@@ -4685,9 +4354,7 @@
       "Wakiso",
       "Yumbe",
       "Zombo"
-    ]
-  },
-  {
+    ],
     "Ukraine": [
       "Avtonomna Respublika Krym",
       "Cherkaska oblast",
@@ -4716,9 +4383,7 @@
       "Zakarpatska oblast",
       "Zaporizka oblast",
       "Zhytomyrska oblast"
-    ]
-  },
-  {
+    ],
     "United Arab Emirates": [
       "Abu Zaby",
       "Ajman",
@@ -4727,9 +4392,7 @@
       "Dubayy",
       "Ra's al Khaymah",
       "Umm al Qaywayn"
-    ]
-  },
-  {
+    ],
     "United Kingdom": [
       "Aberdeen City",
       "Aberdeenshire",
@@ -4950,9 +4613,7 @@
       "Worcestershire",
       "Wrexham",
       "York"
-    ]
-  },
-  {
+    ],
     "United States Minor Outlying Islands": [
       "Baker Island",
       "Howland Island",
@@ -4963,9 +4624,7 @@
       "Navassa Island",
       "Palmyra Atoll",
       "Wake Island"
-    ]
-  },
-  {
+    ],
     "United States of America": [
       "Alabama",
       "Alaska",
@@ -5018,9 +4677,7 @@
       "West Virginia",
       "Wisconsin",
       "Wyoming"
-    ]
-  },
-  {
+    ],
     "Uruguay": [
       "Artigas",
       "Canelones",
@@ -5041,9 +4698,7 @@
       "Soriano",
       "Tacuarembo",
       "Treinta y Tres"
-    ]
-  },
-  {
+    ],
     "Uzbekistan": [
       "Andijon",
       "Buxoro",
@@ -5058,12 +4713,8 @@
       "Surxondaryo",
       "Toshkent",
       "Xorazm"
-    ]
-  },
-  {
-    "Vanuatu": ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"]
-  },
-  {
+    ],
+    "Vanuatu": ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"],
     "Venezuela": [
       "Amazonas",
       "Anzoategui",
@@ -5090,9 +4741,7 @@
       "Trujillo",
       "Yaracuy",
       "Zulia"
-    ]
-  },
-  {
+    ],
     "Vietnam": [
       "An Giang",
       "Ba Ria - Vung Tau",
@@ -5157,12 +4806,8 @@
       "Vinh Long",
       "Vinh Phuc",
       "Yen Bai"
-    ]
-  },
-  {
-    "Wallis and Futuna": ["Alo", "Sigave", "Uvea"]
-  },
-  {
+    ],
+    "Wallis and Futuna": ["Alo", "Sigave", "Uvea"],
     "Yemen": [
       "Abyan",
       "Ad Dali'",
@@ -5185,9 +4830,7 @@
       "San'a'",
       "Shabwah",
       "Ta'izz"
-    ]
-  },
-  {
+    ],
     "Zambia": [
       "Central",
       "Copperbelt",
@@ -5199,9 +4842,7 @@
       "Northern",
       "Southern",
       "Western"
-    ]
-  },
-  {
+    ],
     "Zimbabwe": [
       "Bulawayo",
       "Harare",
