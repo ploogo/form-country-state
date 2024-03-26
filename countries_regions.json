@@ -1,7 +1,6 @@
 [
 {
-    "country": "Afghanistan",
-    "region": [
+    "Afghanistan": [
       "Badakhshan",
       "Badghis",
       "Baghlan",
@@ -39,8 +38,7 @@
     ]
   },
   {
-    "country": "Albania",
-    "region": [
+    "Albania": [
       "Berat",
       "Diber",
       "Durres",
@@ -56,8 +54,7 @@
     ]
   },
   {
-    "country": "Algeria",
-    "region": [
+    "Algeria": [
       "Adrar",
       "Ain Defla",
       "Ain Temouchent",
@@ -109,8 +106,7 @@
     ]
   },
   {
-    "country": "Andorra",
-    "region": [
+    "Andorra": [
       "Andorra la Vella",
       "Canillo",
       "Encamp",
@@ -121,8 +117,7 @@
     ]
   },
   {
-    "country": "Angola",
-    "region": [
+    "Angola": [
       "Huila",
       "Bengo",
       "Benguela",
@@ -144,8 +139,7 @@
     ]
   },
   {
-    "country": "Antigua and Barbuda",
-    "region": [
+    "Antigua and Barbuda": [
       "Saint George",
       "Saint John",
       "Saint Mary",
@@ -157,8 +151,7 @@
     ]
   },
   {
-    "country": "Argentina",
-    "region": [
+    "Argentina": [
       "Cordoba",
       "La Rioja",
       "Misiones",
@@ -185,8 +178,7 @@
     ]
   },
   {
-    "country": "Armenia",
-    "region": [
+    "Armenia": [
       "Aragacotn",
       "Ararat",
       "Armavir",
@@ -201,8 +193,7 @@
     ]
   },
   {
-    "country": "Australia",
-    "region": [
+    "Australia": [
       "Australian Capital Territory",
       "New South Wales",
       "Northern Territory",
@@ -214,8 +205,7 @@
     ]
   },
   {
-    "country": "Austria",
-    "region": [
+    "Austria": [
       "Burgenland",
       "Karnten",
       "Niederosterreich",
@@ -228,8 +218,7 @@
     ]
   },
   {
-    "country": "Azerbaijan",
-    "region": [
+    "Azerbaijan": [
       "Lankaran",
       "Naxcivan",
       "Saki",
@@ -307,8 +296,7 @@
     ]
   },
   {
-    "country": "Bahamas",
-    "region": [
+    "Bahamas": [
       "San Salvador",
       "Acklins",
       "Berry Islands",
@@ -344,12 +332,10 @@
     ]
   },
   {
-    "country": "Bahrain",
-    "region": ["Al 'Asimah", "Ash Shamaliyah", "Al Janubiyah", "Al Muharraq"]
+    "Bahrain": ["Al 'Asimah", "Ash Shamaliyah", "Al Janubiyah", "Al Muharraq"]
   },
   {
-    "country": "Bangladesh",
-    "region": [
+    "Bangladesh": [
       "Barishal",
       "Chattogram",
       "Dhaka",
@@ -417,8 +403,7 @@
     ]
   },
   {
-    "country": "Barbados",
-    "region": [
+    "Barbados": [
       "Saint Andrew",
       "Saint George",
       "Saint James",
@@ -433,8 +418,7 @@
     ]
   },
   {
-    "country": "Belarus",
-    "region": [
+    "Belarus": [
       "Bresckaja voblasc",
       "Homieĺskaja voblasc",
       "Horad Minsk",
@@ -445,8 +429,7 @@
     ]
   },
   {
-    "country": "Belgium",
-    "region": [
+    "Belgium": [
       "Limburg",
       "Antwerpen",
       "Brabant wallon",
@@ -463,8 +446,7 @@
     ]
   },
   {
-    "country": "Belize",
-    "region": [
+    "Belize": [
       "Toledo",
       "Belize",
       "Cayo",
@@ -474,8 +456,7 @@
     ]
   },
   {
-    "country": "Benin",
-    "region": [
+    "Benin": [
       "Littoral",
       "Plateau",
       "Alibori",
@@ -491,8 +472,7 @@
     ]
   },
   {
-    "country": "Bhutan",
-    "region": [
+    "Bhutan": [
       "Bumthang",
       "Chhukha",
       "Dagana",
@@ -516,8 +496,7 @@
     ]
   },
   {
-    "country": "Bolivia",
-    "region": [
+    "Bolivia": [
       "La Paz",
       "Santa Cruz",
       "Chuquisaca",
@@ -530,20 +509,17 @@
     ]
   },
   {
-    "country": "Bonaire, Sint Eustatius and Saba",
-    "region": ["Bonaire", "Saba", "Sint Eustatius"]
+    "Bonaire, Sint Eustatius and Saba": ["Bonaire", "Saba", "Sint Eustatius"]
   },
   {
-    "country": "Bosnia and Herzegovina",
-    "region": [
+    "Bosnia and Herzegovina": [
       "Brcko distrikt",
       "Federacija Bosne i Hercegovine",
       "Republika Srpska"
     ]
   },
   {
-    "country": "Botswana",
-    "region": [
+    "Botswana": [
       "Central",
       "North East",
       "North West",
@@ -563,8 +539,7 @@
     ]
   },
   {
-    "country": "Brazil",
-    "region": [
+    "Brazil": [
       "Amazonas",
       "Para",
       "Santa Catarina",
@@ -595,12 +570,10 @@
     ]
   },
   {
-    "country": "Brunei Darussalam",
-    "region": ["Belait", "Brunei-Muara", "Temburong", "Tutong"]
+    "Brunei Darussalam": ["Belait", "Brunei-Muara", "Temburong", "Tutong"]
   },
   {
-    "country": "Bulgaria",
-    "region": [
+    "Bulgaria": [
       "Montana",
       "Ruse",
       "Blagoevgrad",
@@ -632,8 +605,7 @@
     ]
   },
   {
-    "country": "Burkina Faso",
-    "region": [
+    "Burkina Faso": [
       "Centre",
       "Comoe",
       "Est",
@@ -690,8 +662,7 @@
     ]
   },
   {
-    "country": "Denmark",
-    "region": [
+    "Denmark": [
       "Hovedstaden",
       "Midtjylland",
       "Nordjylland",
@@ -700,12 +671,10 @@
     ]
   },
   {
-    "country": "Djibouti",
-    "region": ["Ali Sabih", "Arta", "Awbuk", "Dikhil", "Jibuti", "Tajurah"]
+    "Djibouti": ["Ali Sabih", "Arta", "Awbuk", "Dikhil", "Jibuti", "Tajurah"]
   },
   {
-    "country": "Dominica",
-    "region": [
+    "Dominica": [
       "Saint Andrew",
       "Saint David",
       "Saint George",
@@ -719,8 +688,7 @@
     ]
   },
   {
-    "country": "Dominican Republic",
-    "region": [
+    "Dominican Republic": [
       "Azua",
       "Baoruco",
       "Barahona",
@@ -766,8 +734,7 @@
     ]
   },
   {
-    "country": "Ecuador",
-    "region": [
+    "Ecuador": [
       "Azuay",
       "Bolivar",
       "Canar",
@@ -795,8 +762,7 @@
     ]
   },
   {
-    "country": "Egypt",
-    "region": [
+    "Egypt": [
       "Ad Daqahliyah",
       "Al Bahr al Ahmar",
       "Al Buhayrah",
@@ -826,8 +792,7 @@
     ]
   },
   {
-    "country": "El Salvador",
-    "region": [
+    "El Salvador": [
       "Ahuachapan",
       "Cabanas",
       "Chalatenango",
@@ -845,8 +810,7 @@
     ]
   },
   {
-    "country": "Equatorial Guinea",
-    "region": [
+    "Equatorial Guinea": [
       "Annobon",
       "Bioko Norte",
       "Bioko Sur",
@@ -860,8 +824,7 @@
     ]
   },
   {
-    "country": "Eritrea",
-    "region": [
+    "Eritrea": [
       "Anseba",
       "Debub",
       "Debubawi K'eyyih Bahri",
@@ -871,8 +834,7 @@
     ]
   },
   {
-    "country": "Estonia",
-    "region": [
+    "Estonia": [
       "Alutaguse",
       "Anija",
       "Antsla",
@@ -962,12 +924,10 @@
     ]
   },
   {
-    "country": "Eswatini",
-    "region": ["Hhohho", "Lubombo", "Manzini", "Shiselweni"]
+    "Eswatini": ["Hhohho", "Lubombo", "Manzini", "Shiselweni"]
   },
   {
-    "country": "Ethiopia",
-    "region": [
+    "Ethiopia": [
       "Adis Abeba",
       "Afar",
       "Amara",
@@ -983,8 +943,7 @@
     ]
   },
   {
-    "country": "Fiji",
-    "region": [
+    "Fiji": [
       "Ba",
       "Bua",
       "Cakaudrove",
@@ -1007,8 +966,7 @@
     ]
   },
   {
-    "country": "Finland",
-    "region": [
+    "Finland": [
       "Ahvenanmaan maakunta",
       "Etela-Karjala",
       "Etela-Pohjanmaa",
@@ -1031,8 +989,7 @@
     ]
   },
   {
-    "country": "France",
-    "region": [
+    "France": [
       "Ain",
       "Aisne",
       "Alpes-de-Haute-Provence",
@@ -1145,8 +1102,7 @@
     ]
   },
   {
-    "country": "Gabon",
-    "region": [
+    "Gabon": [
       "Estuaire",
       "Haut-Ogooue",
       "Moyen-Ogooue",
@@ -1159,8 +1115,7 @@
     ]
   },
   {
-    "country": "Gambia",
-    "region": [
+    "Gambia": [
       "Banjul",
       "Central River",
       "Lower River",
@@ -1170,8 +1125,7 @@
     ]
   },
   {
-    "country": "Georgia",
-    "region": [
+    "Georgia": [
       "Abkhazia",
       "Ajaria",
       "Guria",
@@ -1187,8 +1141,7 @@
     ]
   },
   {
-    "country": "Germany",
-    "region": [
+    "Germany": [
       "Baden-Wurttemberg",
       "Bayern",
       "Berlin",
@@ -1208,8 +1161,7 @@
     ]
   },
   {
-    "country": "Ghana",
-    "region": [
+    "Ghana": [
       "Ahafo",
       "Ashanti",
       "Bono",
@@ -1229,8 +1181,7 @@
     ]
   },
   {
-    "country": "Greece",
-    "region": [
+    "Greece": [
       "Agion Oros",
       "Anatoliki Makedonia kai Thraki",
       "Attiki",
@@ -1248,8 +1199,7 @@
     ]
   },
   {
-    "country": "Greenland",
-    "region": [
+    "Greenland": [
       "Avannaata Kommunia",
       "Kommune Kujalleq",
       "Kommune Qeqertalik",
@@ -1258,8 +1208,7 @@
     ]
   },
   {
-    "country": "Grenada",
-    "region": [
+    "Grenada": [
       "Saint Andrew",
       "Saint David",
       "Saint George",
@@ -1270,8 +1219,7 @@
     ]
   },
   {
-    "country": "Guatemala",
-    "region": [
+    "Guatemala": [
       "Alta Verapaz",
       "Baja Verapaz",
       "Chimaltenango",
@@ -1297,8 +1245,7 @@
     ]
   },
   {
-    "country": "Guinea",
-    "region": [
+    "Guinea": [
       "Beyla",
       "Boffa",
       "Boke",
@@ -1336,8 +1283,7 @@
     ]
   },
   {
-    "country": "Guinea-Bissau",
-    "region": [
+    "Guinea-Bissau": [
       "Bafata",
       "Biombo",
       "Bissau",
@@ -1353,8 +1299,7 @@
     ]
   },
   {
-    "country": "Guyana",
-    "region": [
+    "Guyana": [
       "Barima-Waini",
       "Cuyuni-Mazaruni",
       "Demerara-Mahaica",
@@ -1368,8 +1313,7 @@
     ]
   },
   {
-    "country": "Haiti",
-    "region": [
+    "Haiti": [
       "Artibonite",
       "Centre",
       "Grande'Anse",
@@ -1383,8 +1327,7 @@
     ]
   },
   {
-    "country": "Honduras",
-    "region": [
+    "Honduras": [
       "Atlantida",
       "Choluteca",
       "Colon",
@@ -1405,8 +1348,7 @@
     ]
   },
   {
-    "country": "Hungary",
-    "region": [
+    "Hungary": [
       "Bacs-Kiskun",
       "Baranya",
       "Bekes",
@@ -1452,8 +1394,7 @@
     ]
   },
   {
-    "country": "Iceland",
-    "region": [
+    "Iceland": [
       "Akrahreppur",
       "Akraneskaupstadur",
       "Akureyrarbaer",
@@ -1534,8 +1475,7 @@
     ]
   },
   {
-    "country": "India",
-    "region": [
+    "India": [
       "Andaman and Nicobar Islands",
       "Andhra Pradesh",
       "Arunachal Pradesh",
@@ -1575,8 +1515,7 @@
     ]
   },
   {
-    "country": "Indonesia",
-    "region": [
+    "Indonesia": [
       "Aceh",
       "Bali",
       "Banten",
@@ -1619,8 +1558,7 @@
     ]
   },
   {
-    "country": "Iran",
-    "region": [
+    "Iran": [
       "Alborz",
       "Ardabil",
       "Azarbayjan-e Gharbi",
@@ -1655,8 +1593,7 @@
     ]
   },
   {
-    "country": "Iraq",
-    "region": [
+    "Iraq": [
       "Al Anbar",
       "Al Basrah",
       "Al Muthanna",
@@ -1679,8 +1616,7 @@
     ]
   },
   {
-    "country": "Ireland",
-    "region": [
+    "Ireland": [
       "Carlow",
       "Cavan",
       "Clare",
@@ -1714,8 +1650,7 @@
     ]
   },
   {
-    "country": "Israel",
-    "region": [
+    "Israel": [
       "HaDarom",
       "HaMerkaz",
       "HaTsafon",
@@ -1725,8 +1660,7 @@
     ]
   },
   {
-    "country": "Italy",
-    "region": [
+    "Italy": [
       "Abruzzo",
       "Agrigento",
       "Alessandria",
@@ -1855,8 +1789,7 @@
     ]
   },
   {
-    "country": "Jamaica",
-    "region": [
+    "Jamaica": [
       "Clarendon",
       "Hanover",
       "Kingston",
@@ -1874,8 +1807,7 @@
     ]
   },
   {
-    "country": "Japan",
-    "region": [
+    "Japan": [
       "Aiti",
       "Akita",
       "Aomori",
@@ -1926,8 +1858,7 @@
     ]
   },
   {
-    "country": "Jordan",
-    "region": [
+    "Jordan": [
       "Ajlun",
       "Al 'Aqabah",
       "Al 'Asimah",
@@ -1943,8 +1874,7 @@
     ]
   },
   {
-    "country": "Kazakhstan",
-    "region": [
+    "Kazakhstan": [
       "Almaty",
       "Almaty oblysy",
       "Aqmola oblysy",
@@ -1965,8 +1895,7 @@
     ]
   },
   {
-    "country": "Kenya",
-    "region": [
+    "Kenya": [
       "Baringo",
       "Bomet",
       "Bungoma",
@@ -2017,12 +1946,10 @@
     ]
   },
   {
-    "country": "Kiribati",
-    "region": ["Gilbert Islands", "Line Islands", "Phoenix Islands"]
+    "Kiribati": ["Gilbert Islands", "Line Islands", "Phoenix Islands"]
   },
   {
-    "country": "Korea, Republic of",
-    "region": [
+    "Korea, Republic of": [
       "Busan-gwangyeoksi",
       "Chungcheongbuk-do",
       "Chungcheongnam-do",
@@ -2043,8 +1970,7 @@
     ]
   },
   {
-    "country": "Kuwait",
-    "region": [
+    "Kuwait": [
       "Al Ahmadi",
       "Al 'asimah",
       "Al Farwaniyah",
@@ -2054,8 +1980,7 @@
     ]
   },
   {
-    "country": "Kyrgyzstan",
-    "region": [
+    "Kyrgyzstan": [
       "Batken",
       "Bishkek Shaary",
       "Chuy",
@@ -2068,8 +1993,7 @@
     ]
   },
   {
-    "country": "Laos",
-    "region": [
+    "Laos": [
       "Attapu",
       "Bokeo",
       "Bolikhamxai",
@@ -2090,8 +2014,7 @@
     ]
   },
   {
-    "country": "Latvia",
-    "region": [
+    "Latvia": [
       "Adazu novads",
       "Aizkraukles novads",
       "Aluksnes novads",
@@ -2138,8 +2061,7 @@
     ]
   },
   {
-    "country": "Lebanon",
-    "region": [
+    "Lebanon": [
       "Aakkar",
       "Baalbek-Hermel",
       "Beqaa",
@@ -2151,8 +2073,7 @@
     ]
   },
   {
-    "country": "Lesotho",
-    "region": [
+    "Lesotho": [
       "Berea",
       "Botha-Bothe",
       "Leribe",
@@ -2166,8 +2087,7 @@
     ]
   },
   {
-    "country": "Liberia",
-    "region": [
+    "Liberia": [
       "Bomi",
       "Bong",
       "Gbarpolu",
@@ -2186,8 +2106,7 @@
     ]
   },
   {
-    "country": "Libya",
-    "region": [
+    "Libya": [
       "Al Butnan",
       "Al Jabal al Akhdar",
       "Al Jabal al Gharbi",
@@ -2213,8 +2132,7 @@
     ]
   },
   {
-    "country": "Liechtenstein",
-    "region": [
+    "Liechtenstein": [
       "Balzers",
       "Eschen",
       "Gamprin",
@@ -2229,8 +2147,7 @@
     ]
   },
   {
-    "country": "Lithuania",
-    "region": [
+    "Lithuania": [
       "Akmene",
       "Alytaus apskritis",
       "Alytaus miestas",
@@ -2304,8 +2221,7 @@
     ]
   },
   {
-    "country": "Luxembourg",
-    "region": [
+    "Luxembourg": [
       "Diekrech",
       "Esch-Uelzecht",
       "Greivemaacher",
@@ -2321,8 +2237,7 @@
     ]
   },
   {
-    "country": "Madagascar",
-    "region": [
+    "Madagascar": [
       "Antananarivo",
       "Antsiranana",
       "Fianarantsoa",
@@ -2332,8 +2247,7 @@
     ]
   },
   {
-    "country": "Malawi",
-    "region": [
+    "Malawi": [
       "Balaka",
       "Blantyre",
       "Chakumwera",
@@ -2368,8 +2282,7 @@
     ]
   },
   {
-    "country": "Malaysia",
-    "region": [
+    "Malaysia": [
       "Johor",
       "Kedah",
       "Kelantan",
@@ -2389,8 +2302,7 @@
     ]
   },
   {
-    "country": "Maldives",
-    "region": [
+    "Maldives": [
       "Addu",
       "Ariatholhu Dhekunuburi",
       "Ariatholhu Uthuruburi",
@@ -2415,8 +2327,7 @@
     ]
   },
   {
-    "country": "Mali",
-    "region": [
+    "Mali": [
       "Bamako",
       "Gao",
       "Kayes",
@@ -2431,8 +2342,7 @@
     ]
   },
   {
-    "country": "Malta",
-    "region": [
+    "Malta": [
       "Attard",
       "Balzan",
       "Birkirkara",
@@ -2504,8 +2414,7 @@
     ]
   },
   {
-    "country": "Marshall Islands",
-    "region": [
+    "Marshall Islands": [
       "Aelok",
       "Aelonlaplap",
       "Anewetak & Wujlan",
@@ -2535,8 +2444,7 @@
     ]
   },
   {
-    "country": "Mauritania",
-    "region": [
+    "Mauritania": [
       "Adrar",
       "Assaba",
       "Brakna",
@@ -2555,8 +2463,7 @@
     ]
   },
   {
-    "country": "Mauritius",
-    "region": [
+    "Mauritius": [
       "Agalega Islands",
       "Black River",
       "Cargados Carajos Shoals",
@@ -2572,8 +2479,7 @@
     ]
   },
   {
-    "country": "Mexico",
-    "region": [
+    "Mexico": [
       "Aguascalientes",
       "Baja California",
       "Baja California Sur",
@@ -2609,12 +2515,10 @@
     ]
   },
   {
-    "country": "Micronesia",
-    "region": ["Chuuk", "Kosrae", "Pohnpei", "Yap"]
+    "Micronesia": ["Chuuk", "Kosrae", "Pohnpei", "Yap"]
   },
   {
-    "country": "Moldova",
-    "region": [
+    "Moldova": [
       "Anenii Noi",
       "Balti",
       "Basarabeasca",
@@ -2654,8 +2558,7 @@
     ]
   },
   {
-    "country": "Monaco",
-    "region": [
+    "Monaco": [
       "Fontvieille",
       "Jardin Exotique",
       "La Colle",
@@ -2676,8 +2579,7 @@
     ]
   },
   {
-    "country": "Mongolia",
-    "region": [
+    "Mongolia": [
       "Arhangay",
       "Bayanhongor",
       "Bayan-Olgiy",
@@ -2703,8 +2605,7 @@
     ]
   },
   {
-    "country": "Montenegro",
-    "region": [
+    "Montenegro": [
       "Andrijevica",
       "Bar",
       "Berane",
@@ -2732,8 +2633,7 @@
     ]
   },
   {
-    "country": "Morocco",
-    "region": [
+    "Morocco": [
       "Agadir-Ida-Ou-Tanane",
       "Aousserd",
       "Assa-Zag",
@@ -2821,8 +2721,7 @@
     ]
   },
   {
-    "country": "Mozambique",
-    "region": [
+    "Mozambique": [
       "Cabo Delgado",
       "Gaza",
       "Inhambane",
@@ -2836,8 +2735,7 @@
     ]
   },
   {
-    "country": "Myanmar",
-    "region": [
+    "Myanmar": [
       "Ayeyarwady",
       "Bago",
       "Chin",
@@ -2856,8 +2754,7 @@
     ]
   },
   {
-    "country": "Namibia",
-    "region": [
+    "Namibia": [
       "Erongo",
       "Hardap",
       "Karas",
@@ -2875,8 +2772,7 @@
     ]
   },
   {
-    "country": "Nauru",
-    "region": [
+    "Nauru": [
       "Aiwo",
       "Anabar",
       "Anetan",
@@ -2894,8 +2790,7 @@
     ]
   },
   {
-    "country": "Nepal",
-    "region": [
+    "Nepal": [
       "Bagmati",
       "Bheri",
       "Dhawalagiri",
@@ -2921,8 +2816,7 @@
     ]
   },
   {
-    "country": "Netherlands",
-    "region": [
+    "Netherlands": [
       "Drenthe",
       "Flevoland",
       "Fryslan",
@@ -2938,8 +2832,7 @@
     ]
   },
   {
-    "country": "New Zealand",
-    "region": [
+    "New Zealand": [
       "Auckland",
       "Bay of Plenty",
       "Canterbury",
@@ -2960,8 +2853,7 @@
     ]
   },
   {
-    "country": "Nicaragua",
-    "region": [
+    "Nicaragua": [
       "Boaco",
       "Carazo",
       "Chinandega",
@@ -2982,8 +2874,7 @@
     ]
   },
   {
-    "country": "Niger",
-    "region": [
+    "Niger": [
       "Agadez",
       "Diffa",
       "Dosso",
@@ -2995,8 +2886,7 @@
     ]
   },
   {
-    "country": "Nigeria",
-    "region": [
+    "Nigeria": [
       "Abia",
       "Abuja Federal Capital Territory",
       "Adamawa",
@@ -3037,8 +2927,7 @@
     ]
   },
   {
-    "country": "North Korea",
-    "region": [
+    "North Korea": [
       "Hamkyeongnamto",
       "Hamkyeongpukto",
       "Hwanghainamto",
@@ -3054,8 +2943,7 @@
     ]
   },
   {
-    "country": "North Macedonia",
-    "region": [
+    "North Macedonia": [
       "Aerodrom",
       "Aracinovo",
       "Berovo",
@@ -3139,8 +3027,7 @@
     ]
   },
   {
-    "country": "Norway",
-    "region": [
+    "Norway": [
       "Agder",
       "Innlandet",
       "Jan Mayen",
@@ -3157,8 +3044,7 @@
     ]
   },
   {
-    "country": "Oman",
-    "region": [
+    "Oman": [
       "Ad Dakhiliyah",
       "Al Buraymi",
       "Al Wusta",
@@ -3185,8 +3071,7 @@
     ]
   },
   {
-    "country": "Palau",
-    "region": [
+    "Palau": [
       "Aimeliik",
       "Airai",
       "Angaur",
@@ -3206,8 +3091,7 @@
     ]
   },
   {
-    "country": "Palestine",
-    "region": [
+    "Palestine": [
       "Al Khalil",
       "Al Quds",
       "Ariha wal Aghwar",
@@ -3227,8 +3111,7 @@
     ]
   },
   {
-    "country": "Panama",
-    "region": [
+    "Panama": [
       "Bocas del Toro",
       "Chiriqui",
       "Cocle",
@@ -3246,8 +3129,7 @@
     ]
   },
   {
-    "country": "Papua New Guinea",
-    "region": [
+    "Papua New Guinea": [
       "Bougainville",
       "Central",
       "Chimbu",
@@ -3273,8 +3155,7 @@
     ]
   },
   {
-    "country": "Paraguay",
-    "region": [
+    "Paraguay": [
       "Alto Paraguay",
       "Alto Parana",
       "Amambay",
@@ -3296,8 +3177,7 @@
     ]
   },
   {
-    "country": "Peru",
-    "region": [
+    "Peru": [
       "Amazonas",
       "Ancash",
       "Apurimac",
@@ -3327,8 +3207,7 @@
     ]
   },
   {
-    "country": "Philippines",
-    "region": [
+    "Philippines": [
       "Abra",
       "Aklan",
       "Albay",
@@ -3430,8 +3309,7 @@
     ]
   },
   {
-    "country": "Poland",
-    "region": [
+    "Poland": [
       "Dolnosląskie",
       "Kujawsko-pomorskie",
       "Łodzkie",
@@ -3451,8 +3329,7 @@
     ]
   },
   {
-    "country": "Portugal",
-    "region": [
+    "Portugal": [
       "Aveiro",
       "Beja",
       "Braga",
@@ -3476,8 +3353,7 @@
     ]
   },
   {
-    "country": "Qatar",
-    "region": [
+    "Qatar": [
       "Ad Dawhah",
       "Al Khawr wa adh Dhakhirah",
       "Al Wakrah",
@@ -3489,8 +3365,7 @@
     ]
   },
   {
-    "country": "Romania",
-    "region": [
+    "Romania": [
       "Alba",
       "Arad",
       "Arges",
@@ -3536,8 +3411,7 @@
     ]
   },
   {
-    "country": "Russian Federation",
-    "region": [
+    "Russian Federation": [
       "Adygeja, Respublika",
       "Altaj, Respublika",
       "Altajskij kraj",
@@ -3620,8 +3494,7 @@
     ]
   },
   {
-    "country": "Rwanda",
-    "region": [
+    "Rwanda": [
       "Amajyaruguru",
       "Amajyepfo",
       "Iburasirazuba",
@@ -3630,12 +3503,10 @@
     ]
   },
   {
-    "country": "Saint Helena, Ascension and Tristan da Cunha",
-    "region": ["Ascension", "Saint Helena", "Tristan da Cunha"]
+    "Saint Helena, Ascension and Tristan da Cunha": ["Ascension", "Saint Helena", "Tristan da Cunha"]
   },
   {
-    "country": "Saint Kitts and Nevis",
-    "region": [
+    "Saint Kitts and Nevis": [
       "Christ Church Nichola Town",
       "Nevis",
       "Saint Anne Sandy Point",
@@ -3655,8 +3526,7 @@
     ]
   },
   {
-    "country": "Saint Lucia",
-    "region": [
+    "Saint Lucia": [
       "Anse la Raye",
       "Canaries",
       "Castries",
@@ -3670,8 +3540,7 @@
     ]
   },
   {
-    "country": "Saint Vincent and the Grenadines",
-    "region": [
+    "Saint Vincent and the Grenadines": [
       "Charlotte",
       "Grenadines",
       "Saint Andrew",
@@ -3681,8 +3550,7 @@
     ]
   },
   {
-    "country": "Samoa",
-    "region": [
+    "Samoa": [
       "A'ana",
       "Aiga-i-le-Tai",
       "Atua",
@@ -3697,8 +3565,7 @@
     ]
   },
   {
-    "country": "San Marino",
-    "region": [
+    "San Marino": [
       "Acquaviva",
       "Borgo Maggiore",
       "Chiesanuova",
@@ -3711,8 +3578,7 @@
     ]
   },
   {
-    "country": "Sao Tome and Principe",
-    "region": [
+    "Sao Tome and Principe": [
       "Agua Grande",
       "Cantagalo",
       "Caue",
@@ -3723,8 +3589,7 @@
     ]
   },
   {
-    "country": "Saudi Arabia",
-    "region": [
+    "Saudi Arabia": [
       "Al Bahah",
       "Al Hudud ash Shamaliyah",
       "Al Jawf",
@@ -3741,8 +3606,7 @@
     ]
   },
   {
-    "country": "Senegal",
-    "region": [
+    "Senegal": [
       "Dakar",
       "Diourbel",
       "Fatick",
@@ -3760,8 +3624,7 @@
     ]
   },
   {
-    "country": "Serbia",
-    "region": [
+    "Serbia": [
       "Beograd",
       "Borski okrug",
       "Branicevski okrug",
@@ -3797,8 +3660,7 @@
     ]
   },
   {
-    "country": "Seychelles",
-    "region": [
+    "Seychelles": [
       "Ans Bwalo",
       "Ans Etwal",
       "Ans o Pen",
@@ -3827,8 +3689,7 @@
     ]
   },
   {
-    "country": "Sierra Leone",
-    "region": [
+    "Sierra Leone": [
       "Eastern",
       "North Western",
       "Northern",
@@ -3837,8 +3698,7 @@
     ]
   },
   {
-    "country": "Singapore",
-    "region": [
+    "Singapore": [
       "Central Singapore",
       "North East",
       "North West",
@@ -3847,8 +3707,7 @@
     ]
   },
   {
-    "country": "Slovakia",
-    "region": [
+    "Slovakia": [
       "Banskobystricky kraj",
       "Bratislavsky kraj",
       "Kosicky kraj",
@@ -3860,8 +3719,7 @@
     ]
   },
   {
-    "country": "Slovenia",
-    "region": [
+    "Slovenia": [
       "Ajdovscina",
       "Apace",
       "Ankaran",
@@ -4101,8 +3959,7 @@
     ]
   },
   {
-    "country": "Solomon Islands",
-    "region": [
+    "Solomon Islands": [
       "Capital Territory (Honiara)",
       "Central",
       "Choiseul",
@@ -4116,8 +3973,7 @@
     ]
   },
   {
-    "country": "Somalia",
-    "region": [
+    "Somalia": [
       "Awdal",
       "Bakool",
       "Banaadir",
@@ -4139,8 +3995,7 @@
     ]
   },
   {
-    "country": "South Africa",
-    "region": [
+    "South Africa": [
       "Eastern Cape",
       "Free State",
       "Gauteng",
@@ -4153,8 +4008,7 @@
     ]
   },
   {
-    "country": "South Sudan",
-    "region": [
+    "South Sudan": [
       "Central Equatoria",
       "Eastern Equatoria",
       "Jonglei",
@@ -4168,8 +4022,7 @@
     ]
   },
   {
-    "country": "Spain",
-    "region": [
+    "Spain": [
       "A Coruna",
       "Alava",
       "Albacete",
@@ -4239,8 +4092,7 @@
     ]
   },
   {
-    "country": "Sri Lanka",
-    "region": [
+    "Sri Lanka": [
       "Ampara",
       "Anuradhapura",
       "Badulla",
@@ -4278,8 +4130,7 @@
     ]
   },
   {
-    "country": "Sudan",
-    "region": [
+    "Sudan": [
       "Al Bahr al Ahmar",
       "Al Jazirah",
       "Al Khartum",
@@ -4301,8 +4152,7 @@
     ]
   },
   {
-    "country": "Suriname",
-    "region": [
+    "Suriname": [
       "Brokopondo",
       "Commewijne",
       "Coronie",
@@ -4316,8 +4166,7 @@
     ]
   },
   {
-    "country": "Sweden",
-    "region": [
+    "Sweden": [
       "Blekinge lan",
       "Dalarnas lan",
       "Gavleborgs lan",
@@ -4342,8 +4191,7 @@
     ]
   },
   {
-    "country": "Switzerland",
-    "region": [
+    "Switzerland": [
       "Aargau",
       "Appenzell Ausserrhoden",
       "Appenzell Innerrhoden",
@@ -4373,8 +4221,7 @@
     ]
   },
   {
-    "country": "Syria",
-    "region": [
+    "Syria": [
       "Al Hasakah",
       "Al Ladhiqiyah",
       "Al Qunaytirah",
@@ -4392,8 +4239,7 @@
     ]
   },
   {
-    "country": "Taiwan",
-    "region": [
+    "Taiwan": [
       "Changhua",
       "Chiayi",
       "Hsinchu",
@@ -4417,8 +4263,7 @@
     ]
   },
   {
-    "country": "Tajikistan",
-    "region": [
+    "Tajikistan": [
       "Dushanbe",
       "Khatlon",
       "Kuhistoni Badakhshon",
@@ -4427,8 +4272,7 @@
     ]
   },
   {
-    "country": "Tanzania",
-    "region": [
+    "Tanzania": [
       "Arusha",
       "Dar es Salaam",
       "Dodoma",
@@ -4463,8 +4307,7 @@
     ]
   },
   {
-    "country": "Thailand",
-    "region": [
+    "Thailand": [
       "Amnat Charoen",
       "Ang Thong",
       "Bueng Kan",
@@ -4546,8 +4389,7 @@
     ]
   },
   {
-    "country": "Timor-Leste",
-    "region": [
+    "Timor-Leste": [
       "Aileu",
       "Ainaru",
       "Baukau",
@@ -4564,16 +4406,13 @@
     ]
   },
   {
-    "country": "Togo",
-    "region": ["Centrale", "Kara", "Maritime (Region)", "Plateaux", "Savanes"]
+    "Togo": ["Centrale", "Kara", "Maritime (Region)", "Plateaux", "Savanes"]
   },
   {
-    "country": "Tonga",
-    "region": ["Eua", "Ha'apai", "Niuas", "Tongatapu", "Vava'u"]
+    "Tonga": ["Eua", "Ha'apai", "Niuas", "Tongatapu", "Vava'u"]
   },
   {
-    "country": "Trinidad and Tobago",
-    "region": [
+    "Trinidad and Tobago": [
       "Arima",
       "Chaguanas",
       "Couva-Tabaquite-Talparo",
@@ -4592,8 +4431,7 @@
     ]
   },
   {
-    "country": "Tunisia",
-    "region": [
+    "Tunisia": [
       "Beja",
       "Ben Arous",
       "Bizerte",
@@ -4621,8 +4459,7 @@
     ]
   },
   {
-    "country": "Turkey",
-    "region": [
+    "Turkey": [
       "Adana",
       "Adiyaman",
       "Afyonkarahisar",
@@ -4707,16 +4544,13 @@
     ]
   },
   {
-    "country": "Turkmenistan",
-    "region": ["Ahal", "Asgabat", "Balkan", "Dasoguz", "Lebap", "Mary"]
+    "Turkmenistan": ["Ahal", "Asgabat", "Balkan", "Dasoguz", "Lebap", "Mary"]
   },
   {
-    "country": "Tuvalu",
-    "region": ["Funafuti", "Nanumaga", "Nanumea", "Niutao", "Nui", "Nukufetau", "Nukulaelae", "Vaitupu"]
+    "Tuvalu": ["Funafuti", "Nanumaga", "Nanumea", "Niutao", "Nui", "Nukufetau", "Nukulaelae", "Vaitupu"]
   },
   {
-    "country": "Uganda",
-    "region": [
+    "Uganda": [
       "Abim",
       "Adjumani",
       "Agago",
@@ -4855,8 +4689,7 @@
     ]
   },
   {
-    "country": "Ukraine",
-    "region": [
+    "Ukraine": [
       "Avtonomna Respublika Krym",
       "Cherkaska oblast",
       "Chernihivska oblast",
@@ -4887,8 +4720,7 @@
     ]
   },
   {
-    "country": "United Arab Emirates",
-    "region": [
+    "United Arab Emirates": [
       "Abu Zaby",
       "Ajman",
       "Al Fujayrah",
@@ -4899,8 +4731,7 @@
     ]
   },
   {
-    "country": "United Kingdom",
-    "region": [
+    "United Kingdom": [
       "Aberdeen City",
       "Aberdeenshire",
       "Angus",
@@ -5123,8 +4954,7 @@
     ]
   },
   {
-    "country": "United States Minor Outlying Islands",
-    "region": [
+    "United States Minor Outlying Islands": [
       "Baker Island",
       "Howland Island",
       "Jarvis Island",
@@ -5137,8 +4967,7 @@
     ]
   },
   {
-    "country": "United States of America",
-    "region": [
+    "United States of America": [
       "Alabama",
       "Alaska",
       "Arizona",
@@ -5193,8 +5022,7 @@
     ]
   },
   {
-    "country": "Uruguay",
-    "region": [
+    "Uruguay": [
       "Artigas",
       "Canelones",
       "Cerro Largo",
@@ -5217,8 +5045,7 @@
     ]
   },
   {
-    "country": "Uzbekistan",
-    "region": [
+    "Uzbekistan": [
       "Andijon",
       "Buxoro",
       "Farg'ona",
@@ -5235,12 +5062,10 @@
     ]
   },
   {
-    "country": "Vanuatu",
-    "region": ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"]
+    "Vanuatu": ["Malampa", "Penama", "Sanma", "Shefa", "Tafea", "Torba"]
   },
   {
-    "country": "Venezuela",
-    "region": [
+    "Venezuela": [
       "Amazonas",
       "Anzoategui",
       "Apure",
@@ -5269,8 +5094,7 @@
     ]
   },
   {
-    "country": "Viet Nam",
-    "region": [
+    "Vietnam": [
       "An Giang",
       "Ba Ria - Vung Tau",
       "Bac Giang",
@@ -5337,12 +5161,10 @@
     ]
   },
   {
-    "country": "Wallis and Futuna",
-    "region": ["Alo", "Sigave", "Uvea"]
+    "Wallis and Futuna": ["Alo", "Sigave", "Uvea"]
   },
   {
-    "country": "Yemen",
-    "region": [
+    "Yemen": [
       "Abyan",
       "Ad Dali'",
       "Adan",
@@ -5367,8 +5189,7 @@
     ]
   },
   {
-    "country": "Zambia",
-    "region": [
+    "Zambia": [
       "Central",
       "Copperbelt",
       "Eastern",
@@ -5382,8 +5203,7 @@
     ]
   },
   {
-    "country": "Zimbabwe",
-    "region": [
+    "Zimbabwe": [
       "Bulawayo",
       "Harare",
       "Manicaland",
