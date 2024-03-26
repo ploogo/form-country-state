@@ -1,4 +1,5 @@
-  {
+[
+{
     "country": "Afghanistan",
     "region": [
       "Badakhshan",
@@ -5395,3 +5396,4 @@
       "Midlands"
     ]
   }
+]
